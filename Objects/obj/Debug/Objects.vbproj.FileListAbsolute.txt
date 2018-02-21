@@ -1,0 +1,261 @@
+E:\Project\Company\Working\EDU\ESS_TC\Objects\bin\Debug\ESS.Objects.dll
+E:\Project\Company\Working\EDU\ESS_TC\Objects\bin\Debug\ESS.Objects.pdb
+E:\Project\Company\Working\EDU\ESS_TC\Objects\bin\Debug\ESS.Objects.xml
+E:\Project\Company\Working\EDU\ESS_TC\Objects\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\EDU\ESS_TC\Objects\obj\Debug\ESS.Resources.resources
+E:\Project\Company\Working\EDU\ESS_TC\Objects\obj\Debug\Objects.vbproj.GenerateResource.Cache
+E:\Project\Company\Working\EDU\ESS_TC\Objects\obj\Debug\ESS.Objects.dll
+E:\Project\Company\Working\EDU\ESS_TC\Objects\obj\Debug\ESS.Objects.xml
+E:\Project\Company\Working\EDU\ESS_TC\Objects\obj\Debug\ESS.Objects.pdb
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\Objects\bin\Debug\ESS.Objects.dll
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\Objects\bin\Debug\ESS.Objects.pdb
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\Objects\bin\Debug\ESS.Objects.xml
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\Objects\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\Objects\obj\Debug\ESS.Resources.resources
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\Objects\obj\Debug\Objects.vbproj.GenerateResource.Cache
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\Objects\obj\Debug\ESS.Objects.dll
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\Objects\obj\Debug\ESS.Objects.xml
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\Objects\obj\Debug\ESS.Objects.pdb
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\Objects\bin\Debug\ESS.Objects.dll
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\Objects\bin\Debug\ESS.Objects.pdb
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\Objects\bin\Debug\ESS.Objects.xml
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\Objects\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\Objects\obj\Debug\ESS.Resources.resources
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\Objects\obj\Debug\Objects.vbproj.GenerateResource.Cache
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\Objects\obj\Debug\ESS.Objects.dll
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\Objects\obj\Debug\ESS.Objects.xml
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\Objects\obj\Debug\ESS.Objects.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\Objects\bin\Debug\ESS.Objects.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\Objects\bin\Debug\ESS.Objects.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\Objects\bin\Debug\ESS.Objects.xml
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\Objects\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\Objects\obj\Debug\ESS.Resources.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\Objects\obj\Debug\Objects.vbproj.GenerateResource.Cache
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\Objects\obj\Debug\ESS.Objects.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\Objects\obj\Debug\ESS.Objects.xml
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\Objects\obj\Debug\ESS.Objects.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\Objects\bin\Debug\ESS.Objects.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\Objects\bin\Debug\ESS.Objects.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\Objects\bin\Debug\ESS.Objects.xml
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\Objects\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\Objects\obj\Debug\ESS.Resources.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\Objects\obj\Debug\Objects.vbproj.GenerateResource.Cache
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\Objects\obj\Debug\ESS.Objects.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\Objects\obj\Debug\ESS.Objects.xml
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\Objects\obj\Debug\ESS.Objects.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\Objects\bin\Debug\ESS.Objects.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\Objects\bin\Debug\ESS.Objects.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\Objects\bin\Debug\ESS.Objects.xml
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\Objects\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\Objects\obj\Debug\ESS.Resources.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\Objects\obj\Debug\Objects.vbproj.GenerateResource.Cache
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\Objects\obj\Debug\ESS.Objects.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\Objects\obj\Debug\ESS.Objects.xml
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\Objects\obj\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\Objects\bin\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\Objects\bin\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\Objects\bin\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\Objects\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\Objects\obj\Debug\ESS.Resources.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\Objects\obj\Debug\Objects.vbproj.GenerateResource.Cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\Objects\obj\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\Objects\obj\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\Objects\obj\Debug\ESS.Objects.pdb
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\Objects\bin\Debug\ESS.Objects.dll
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\Objects\bin\Debug\ESS.Objects.pdb
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\Objects\bin\Debug\ESS.Objects.xml
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\Objects\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\Objects\obj\Debug\ESS.Resources.resources
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\Objects\obj\Debug\Objects.vbproj.GenerateResource.Cache
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\Objects\obj\Debug\ESS.Objects.dll
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\Objects\obj\Debug\ESS.Objects.xml
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\Objects\obj\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\Objects\bin\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\Objects\bin\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\Objects\bin\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\Objects\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\Objects\obj\Debug\ESS.Resources.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\Objects\obj\Debug\Objects.vbproj.GenerateResource.Cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\Objects\obj\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\Objects\obj\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\Objects\obj\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen1\Objects\bin\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen1\Objects\bin\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen1\Objects\bin\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen1\Objects\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen1\Objects\obj\Debug\ESS.Resources.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen1\Objects\obj\Debug\Objects.vbproj.GenerateResource.Cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen1\Objects\obj\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen1\Objects\obj\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen1\Objects\obj\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen11\Objects\bin\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen11\Objects\bin\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen11\Objects\bin\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen11\Objects\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen11\Objects\obj\Debug\ESS.Resources.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen11\Objects\obj\Debug\Objects.vbproj.GenerateResource.Cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen11\Objects\obj\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen11\Objects\obj\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen11\Objects\obj\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main\Objects\bin\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main\Objects\bin\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main\Objects\bin\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main\Objects\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main\Objects\obj\Debug\ESS.Resources.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main\Objects\obj\Debug\Objects.vbproj.GenerateResource.Cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main\Objects\obj\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main\Objects\obj\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main\Objects\obj\Debug\ESS.Objects.pdb
+D:\My Work\ThienAn\CaoDangCNPhucYen\ESS_TC_CDCN_PhucYen_Main\Objects\bin\Debug\ESS.Objects.dll
+D:\My Work\ThienAn\CaoDangCNPhucYen\ESS_TC_CDCN_PhucYen_Main\Objects\bin\Debug\ESS.Objects.pdb
+D:\My Work\ThienAn\CaoDangCNPhucYen\ESS_TC_CDCN_PhucYen_Main\Objects\bin\Debug\ESS.Objects.xml
+D:\My Work\ThienAn\CaoDangCNPhucYen\ESS_TC_CDCN_PhucYen_Main\Objects\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\CaoDangCNPhucYen\ESS_TC_CDCN_PhucYen_Main\Objects\obj\Debug\ESS.Resources.resources
+D:\My Work\ThienAn\CaoDangCNPhucYen\ESS_TC_CDCN_PhucYen_Main\Objects\obj\Debug\Objects.vbproj.GenerateResource.Cache
+D:\My Work\ThienAn\CaoDangCNPhucYen\ESS_TC_CDCN_PhucYen_Main\Objects\obj\Debug\ESS.Objects.dll
+D:\My Work\ThienAn\CaoDangCNPhucYen\ESS_TC_CDCN_PhucYen_Main\Objects\obj\Debug\ESS.Objects.xml
+D:\My Work\ThienAn\CaoDangCNPhucYen\ESS_TC_CDCN_PhucYen_Main\Objects\obj\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26072012\ESS_TC_CDCN_PhucYen_Main\Objects\bin\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26072012\ESS_TC_CDCN_PhucYen_Main\Objects\bin\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26072012\ESS_TC_CDCN_PhucYen_Main\Objects\bin\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26072012\ESS_TC_CDCN_PhucYen_Main\Objects\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26072012\ESS_TC_CDCN_PhucYen_Main\Objects\obj\Debug\ESS.Resources.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26072012\ESS_TC_CDCN_PhucYen_Main\Objects\obj\Debug\Objects.vbproj.GenerateResource.Cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26072012\ESS_TC_CDCN_PhucYen_Main\Objects\obj\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26072012\ESS_TC_CDCN_PhucYen_Main\Objects\obj\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26072012\ESS_TC_CDCN_PhucYen_Main\Objects\obj\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_05082012\Objects\bin\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_05082012\Objects\bin\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_05082012\Objects\bin\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_05082012\Objects\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_05082012\Objects\obj\Debug\ESS.Resources.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_05082012\Objects\obj\Debug\Objects.vbproj.GenerateResource.Cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_05082012\Objects\obj\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_05082012\Objects\obj\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_05082012\Objects\obj\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\Cao Dang Nghe\ESS_TC_CDCN_PhucYen_Main_05082012\Objects\bin\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\Cao Dang Nghe\ESS_TC_CDCN_PhucYen_Main_05082012\Objects\bin\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\Cao Dang Nghe\ESS_TC_CDCN_PhucYen_Main_05082012\Objects\bin\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\Cao Dang Nghe\ESS_TC_CDCN_PhucYen_Main_05082012\Objects\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\Cao Dang Nghe\ESS_TC_CDCN_PhucYen_Main_05082012\Objects\obj\Debug\ESS.Resources.resources
+D:\My_CongTy\DuAn_ThienAn\Cao Dang Nghe\ESS_TC_CDCN_PhucYen_Main_05082012\Objects\obj\Debug\Objects.vbproj.GenerateResource.Cache
+D:\My_CongTy\DuAn_ThienAn\Cao Dang Nghe\ESS_TC_CDCN_PhucYen_Main_05082012\Objects\obj\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\Cao Dang Nghe\ESS_TC_CDCN_PhucYen_Main_05082012\Objects\obj\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\Cao Dang Nghe\ESS_TC_CDCN_PhucYen_Main_05082012\Objects\obj\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_CDCN_PhucYen_Main_23102012\Objects\bin\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_CDCN_PhucYen_Main_23102012\Objects\bin\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_CDCN_PhucYen_Main_23102012\Objects\bin\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_CDCN_PhucYen_Main_23102012\Objects\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_CDCN_PhucYen_Main_23102012\Objects\obj\Debug\ESS.Resources.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_CDCN_PhucYen_Main_23102012\Objects\obj\Debug\Objects.vbproj.GenerateResource.Cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_CDCN_PhucYen_Main_23102012\Objects\obj\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_CDCN_PhucYen_Main_23102012\Objects\obj\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_CDCN_PhucYen_Main_23102012\Objects\obj\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_Mark_PhucYen_Main_06032013\ESS_TC_CDCN_PhucYen_Main_23102012\Objects\bin\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_Mark_PhucYen_Main_06032013\ESS_TC_CDCN_PhucYen_Main_23102012\Objects\bin\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_Mark_PhucYen_Main_06032013\ESS_TC_CDCN_PhucYen_Main_23102012\Objects\bin\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_Mark_PhucYen_Main_06032013\ESS_TC_CDCN_PhucYen_Main_23102012\Objects\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_Mark_PhucYen_Main_06032013\ESS_TC_CDCN_PhucYen_Main_23102012\Objects\obj\Debug\ESS.Resources.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_Mark_PhucYen_Main_06032013\ESS_TC_CDCN_PhucYen_Main_23102012\Objects\obj\Debug\Objects.vbproj.GenerateResource.Cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_Mark_PhucYen_Main_06032013\ESS_TC_CDCN_PhucYen_Main_23102012\Objects\obj\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_Mark_PhucYen_Main_06032013\ESS_TC_CDCN_PhucYen_Main_23102012\Objects\obj\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_Mark_PhucYen_Main_06032013\ESS_TC_CDCN_PhucYen_Main_23102012\Objects\obj\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_07042013\Objects\bin\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_07042013\Objects\bin\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_07042013\Objects\bin\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_07042013\Objects\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_07042013\Objects\obj\Debug\ESS.Resources.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_07042013\Objects\obj\Debug\Objects.vbproj.GenerateResource.Cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_07042013\Objects\obj\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_07042013\Objects\obj\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_07042013\Objects\obj\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_10052013\Objects\bin\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_10052013\Objects\bin\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_10052013\Objects\bin\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_10052013\Objects\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_10052013\Objects\obj\Debug\ESS.Resources.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_10052013\Objects\obj\Debug\Objects.vbproj.GenerateResource.Cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_10052013\Objects\obj\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_10052013\Objects\obj\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_10052013\Objects\obj\Debug\ESS.Objects.pdb
+D:\Working\NamVietJSC\CD CN Phuc Yen\ESS_TC_CDCN_PhucYen_Main_03062013\Objects\bin\Debug\ESS.Objects.dll
+D:\Working\NamVietJSC\CD CN Phuc Yen\ESS_TC_CDCN_PhucYen_Main_03062013\Objects\bin\Debug\ESS.Objects.pdb
+D:\Working\NamVietJSC\CD CN Phuc Yen\ESS_TC_CDCN_PhucYen_Main_03062013\Objects\bin\Debug\ESS.Objects.xml
+D:\Working\NamVietJSC\CD CN Phuc Yen\ESS_TC_CDCN_PhucYen_Main_03062013\Objects\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\CD CN Phuc Yen\ESS_TC_CDCN_PhucYen_Main_03062013\Objects\obj\Debug\ESS.Resources.resources
+D:\Working\NamVietJSC\CD CN Phuc Yen\ESS_TC_CDCN_PhucYen_Main_03062013\Objects\obj\Debug\Objects.vbproj.GenerateResource.Cache
+D:\Working\NamVietJSC\CD CN Phuc Yen\ESS_TC_CDCN_PhucYen_Main_03062013\Objects\obj\Debug\ESS.Objects.dll
+D:\Working\NamVietJSC\CD CN Phuc Yen\ESS_TC_CDCN_PhucYen_Main_03062013\Objects\obj\Debug\ESS.Objects.xml
+D:\Working\NamVietJSC\CD CN Phuc Yen\ESS_TC_CDCN_PhucYen_Main_03062013\Objects\obj\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_12062013\Objects\bin\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_12062013\Objects\bin\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_12062013\Objects\bin\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_12062013\Objects\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_12062013\Objects\obj\Debug\ESS.Resources.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_12062013\Objects\obj\Debug\Objects.vbproj.GenerateResource.Cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_12062013\Objects\obj\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_12062013\Objects\obj\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_12062013\Objects\obj\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_12062013\Objects\bin\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_12062013\Objects\bin\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_12062013\Objects\bin\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_12062013\Objects\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_12062013\Objects\obj\Debug\ESS.Resources.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_12062013\Objects\obj\Debug\Objects.vbproj.GenerateResource.Cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_12062013\Objects\obj\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_12062013\Objects\obj\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_12062013\Objects\obj\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_01102013\Objects\bin\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_01102013\Objects\bin\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_01102013\Objects\bin\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_01102013\Objects\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_01102013\Objects\obj\Debug\ESS.Resources.resources
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_01102013\Objects\obj\Debug\Objects.vbproj.GenerateResource.Cache
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_01102013\Objects\obj\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_01102013\Objects\obj\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_01102013\Objects\obj\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\bin\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\bin\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\bin\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\obj\Debug\ESS.Resources.resources
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\obj\Debug\Objects.vbproj.GenerateResource.Cache
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\obj\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\obj\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\obj\Debug\ESS.Objects.pdb
+D:\Working\NamVietJSC\CD CN Phuc Yen\Diem tin chi 2014\CDCN_PY\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\bin\Debug\ESS.Objects.dll
+D:\Working\NamVietJSC\CD CN Phuc Yen\Diem tin chi 2014\CDCN_PY\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\bin\Debug\ESS.Objects.pdb
+D:\Working\NamVietJSC\CD CN Phuc Yen\Diem tin chi 2014\CDCN_PY\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\bin\Debug\ESS.Objects.xml
+D:\Working\NamVietJSC\CD CN Phuc Yen\Diem tin chi 2014\CDCN_PY\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\CD CN Phuc Yen\Diem tin chi 2014\CDCN_PY\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\obj\Debug\ESS.Resources.resources
+D:\Working\NamVietJSC\CD CN Phuc Yen\Diem tin chi 2014\CDCN_PY\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\obj\Debug\Objects.vbproj.GenerateResource.Cache
+D:\Working\NamVietJSC\CD CN Phuc Yen\Diem tin chi 2014\CDCN_PY\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\obj\Debug\ESS.Objects.dll
+D:\Working\NamVietJSC\CD CN Phuc Yen\Diem tin chi 2014\CDCN_PY\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\obj\Debug\ESS.Objects.xml
+D:\Working\NamVietJSC\CD CN Phuc Yen\Diem tin chi 2014\CDCN_PY\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\obj\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\bin\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\bin\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\bin\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\obj\Debug\ESS.Resources.resources
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\obj\Debug\Objects.vbproj.GenerateResource.Cache
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\obj\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\obj\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\obj\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_NamViet_HCM\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\bin\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_NamViet_HCM\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\bin\Debug\ESS.Objects.pdb
+D:\My_CongTy\DuAn_NamViet_HCM\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\bin\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_NamViet_HCM\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_NamViet_HCM\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\obj\Debug\ESS.Resources.resources
+D:\My_CongTy\DuAn_NamViet_HCM\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\obj\Debug\Objects.vbproj.GenerateResource.Cache
+D:\My_CongTy\DuAn_NamViet_HCM\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\obj\Debug\ESS.Objects.dll
+D:\My_CongTy\DuAn_NamViet_HCM\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\obj\Debug\ESS.Objects.xml
+D:\My_CongTy\DuAn_NamViet_HCM\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\Objects\obj\Debug\ESS.Objects.pdb
+D:\ESS_Mark_CDCN_PhucYen\Objects\bin\Debug\ESS.Objects.dll
+D:\ESS_Mark_CDCN_PhucYen\Objects\bin\Debug\ESS.Objects.pdb
+D:\ESS_Mark_CDCN_PhucYen\Objects\bin\Debug\ESS.Objects.xml
+D:\ESS_Mark_CDCN_PhucYen\Objects\obj\Debug\ResolveAssemblyReference.cache
+D:\ESS_Mark_CDCN_PhucYen\Objects\obj\Debug\ESS.Resources.resources
+D:\ESS_Mark_CDCN_PhucYen\Objects\obj\Debug\Objects.vbproj.GenerateResource.Cache
+D:\ESS_Mark_CDCN_PhucYen\Objects\obj\Debug\ESS.Objects.dll
+D:\ESS_Mark_CDCN_PhucYen\Objects\obj\Debug\ESS.Objects.xml
+D:\ESS_Mark_CDCN_PhucYen\Objects\obj\Debug\ESS.Objects.pdb

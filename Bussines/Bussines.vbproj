@@ -1,0 +1,247 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6266F192-8BC9-4669-A4C2-672E5FD655B1}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>ESS.Bussines</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyMode>None</AssemblyOriginatorKeyMode>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <RootNamespace>ESS</RootNamespace>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <MyType>Windows</MyType>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <OldToolsVersion>2.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>ESS.Bussines.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032</NoWarn>
+    <DebugType>full</DebugType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>ESS.Bussines.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032</NoWarn>
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="C1.Win.C1Report, Version=1.1.20023.28, Culture=neutral, PublicKeyToken=c9c7ad9c0a5706c9" />
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+    <ProjectReference Include="..\DataAccess\DataAccess.vbproj">
+      <Project>{FD768322-5CD1-45A5-A6D6-7BE9FD55A590}</Project>
+      <Name>DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Objects\Objects.vbproj">
+      <Project>{79402105-DDB3-4937-92EE-8570D77747D5}</Project>
+      <Name>Objects</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BangDiemCaNhan.vb" />
+    <Compile Include="BaoCaoChiTietTruong.vb" />
+    <Compile Include="BaoCaoTieuDe.vb" />
+    <Compile Include="BaoCaoTieuDe_BLL.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BienLaiThu.vb" />
+    <Compile Include="BoMon.vb" />
+    <Compile Include="BoMonGiangVien.vb" />
+    <Compile Include="CanBoLop.vb" />
+    <Compile Include="ChucDanhCanBo.vb" />
+    <Compile Include="ChucVu.vb" />
+    <Compile Include="ChuongTrinhDaoTao.vb" />
+    <Compile Include="ChuongTrinhDaoTaoNhomTuChon.vb" />
+    <Compile Include="ChuyenDuLieu.vb" />
+    <Compile Include="ChuyenKhoan.vb" />
+    <Compile Include="DanhSachXetLuanVanThiNoTotNghiep.vb" />
+    <Compile Include="DiemRenLuyenTinChi.vb" />
+    <Compile Include="Connect_data.vb" />
+    <Compile Include="DiemThi_TMP.vb" />
+    <Compile Include="KeHoachKhac.vb" />
+    <Compile Include="LopTinChi.vb" />
+    <Compile Include="LopTinChiGanLopHanhChinh.vb" />
+    <Compile Include="PhanLoaiKetQuaHocTap.vb" />
+    <Compile Include="PhongKyTucXa.vb" />
+    <Compile Include="QuyDinhSoTinChiSom.vb" />
+    <Compile Include="CoVanHocTap.vb" />
+    <Compile Include="DanhHieu.vb" />
+    <Compile Include="DanhHieuCaNhan.vb" />
+    <Compile Include="DanhHieuThiDuaTapThe.vb" />
+    <Compile Include="DanhMuc.vb" />
+    <Compile Include="DanhSach.vb" />
+    <Compile Include="DanhSachHocBong.vb" />
+    <Compile Include="DanhSachKhongThi.vb" />
+    <Compile Include="DanhSachLopTinChi.vb" />
+    <Compile Include="DanhSachMienGiamHocPhi.vb" />
+    <Compile Include="DanhSachThuctap.vb" />
+    <Compile Include="DanhSachTotNghiep.vb" />
+    <Compile Include="DanhSachXetLenLop.vb" />
+    <Compile Include="Diem.vb" />
+    <Compile Include="DiemRenLuyen.vb" />
+    <Compile Include="DoiTuongChinhSach.vb" />
+    <Compile Include="DoiTuongTroCap.vb" />
+    <Compile Include="DuyetDangKySinhVien.vb" />
+    <Compile Include="EnumNConst.vb" />
+    <Compile Include="GiangVien.vb" />
+    <Compile Include="GiangVienMonDay.vb" />
+    <Compile Include="GiaoVien.vb" />
+    <Compile Include="GoiNhapHoc.vb" />
+    <Compile Include="He.vb" />
+    <Compile Include="HienThiTruong.vb" />
+    <Compile Include="HoatDongXaHoi.vb" />
+    <Compile Include="HocHam.vb" />
+    <Compile Include="HocKyDangKy.vb" />
+    <Compile Include="HocVi.vb" />
+    <Compile Include="HoSo.vb" />
+    <Compile Include="HoSoNop.vb" />
+    <Compile Include="KhenThuong.vb" />
+    <Compile Include="Khoa.vb" />
+    <Compile Include="KyLuat.vb" />
+    <Compile Include="LapMa.vb" />
+    <Compile Include="LoaiChungChiDanhSachMon.vb" />
+    <Compile Include="LoaiGiayTo.vb" />
+    <Compile Include="LoaiHocBong.vb" />
+    <Compile Include="LoaiPhong.vb" />
+    <Compile Include="LoaiThuChi.vb" />
+    <Compile Include="MonDangKy.vb" />
+    <Compile Include="MonHoc.vb" />
+    <Compile Include="MonTinChi.vb" />
+    <Compile Include="MucHocPhiTinChi.vb" />
+    <Compile Include="MucThuKhacSinhVien.vb" />
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="NhomDoiTuong.vb" />
+    <Compile Include="NoiNgoaiTru.vb" />
+    <Compile Include="NoKhacKhiXetTotNghiep.vb" />
+    <Compile Include="PhanLop.vb" />
+    <Compile Include="PhongHoc.vb" />
+    <Compile Include="PortalDangKyLopTinChi.vb" />
+    <Compile Include="QuyHocBong.vb" />
+    <Compile Include="QuyHocBongPhanBo.vb" />
+    <Compile Include="Scheduling.vb" />
+    <Compile Include="ToChucThiDangKyCaiThienDiem.vb" />
+    <Compile Include="ThongkeDangky.vb" />
+    <Compile Include="ThongKeSoLieuDuBao.vb" />
+    <Compile Include="ThongTinSinhVien.vb" />
+    <Compile Include="PortalLogin.vb" />
+    <Compile Include="QuyCheDaoTao.vb" />
+    <Compile Include="QuyDinhSoTinChi.vb" />
+    <Compile Include="Quyen.vb" />
+    <Compile Include="ReportView.vb" />
+    <Compile Include="SuKienKhacs.vb" />
+    <Compile Include="SuKienNguoiDung.vb" />
+    <Compile Include="SuKiens.vb" />
+    <Compile Include="BaoCao.vb" />
+    <Compile Include="DanhSachNganh2.vb" />
+    <Compile Include="Tang.vb" />
+    <Compile Include="ThamSoHeThong.vb" />
+    <Compile Include="ThanhPhanXuatThan.vb" />
+    <Compile Include="TimKiemNangCao.vb" />
+    <Compile Include="ToaNha.vb" />
+    <Compile Include="TochucThi.vb" />
+    <Compile Include="ToChucThiPhucKhao.vb" />
+    <Compile Include="TongHopDiem.vb" />
+    <Compile Include="TongHopThongKe.vb" />
+    <Compile Include="Portal.vb" />
+    <Compile Include="Users.vb" />
+    <Compile Include="DanhSachSinhVien.vb" />
+    <Compile Include="Lop.vb" />
+    <Compile Include="UsersLopAcess.vb" />
+    <Compile Include="UsersQuyens.vb" />
+    <Compile Include="VaiTro.vb" />
+    <Compile Include="VayVonNganHang.vb" />
+    <Compile Include="XCrypto.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

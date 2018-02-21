@@ -1,0 +1,117 @@
+SELECT * FROM MARK_XepLoaiHocTap_TC_09
+SELECT * FROM MARK_XepLoaiChungChi_TC_09
+SELECT * FROM MARK_XepHangTotNghiep_TC_09
+SELECT * FROM MARK_XepHangHocLuc_TC_09
+SELECT * FROM MARK_DiemQuyDoi_TC_09
+
+CREATE TABLE [dbo].[MARK_XepLoaiHocTap_TC_09](
+	[ID_xep_loai] [int] NOT NULL,
+	[Xep_loai] [nvarchar](50) NOT NULL,
+	[Tu_diem] [real] NOT NULL,
+	[Den_diem] [real] NOT NULL,
+	[Xep_loai_en] [nvarchar](50) NULL,
+ CONSTRAINT [PK_MARK_XepLoaiHocTap_TC_09] PRIMARY KEY CLUSTERED 
+(
+	[ID_xep_loai] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+---
+CREATE TABLE [dbo].[MARK_XepLoaiChungChi_TC_09](
+	[ID_xep_hang] [int] IDENTITY(1,1) NOT NULL,
+	[Tu_diem] [real] NOT NULL,
+	[Den_diem] [real] NOT NULL,
+	[Xep_hang] [nvarchar](20) NOT NULL,
+	[Xep_hang_en] [nvarchar](50) NULL,
+ CONSTRAINT [PK_MARK_XepLoaiChungChi_TC_09] PRIMARY KEY CLUSTERED 
+(
+	[ID_xep_hang] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+--
+CREATE TABLE [dbo].[MARK_XepHangTotNghiep_TC_09](
+	[ID_xep_hang] [int] IDENTITY(1,1) NOT NULL,
+	[Tu_diem] [real] NOT NULL,
+	[Den_diem] [real] NOT NULL,
+	[Xep_hang] [nvarchar](20) NOT NULL,
+	[Xep_hang_en] [nvarchar](50) NULL,
+ CONSTRAINT [PK_MARK_XepHangTotNghiep_TC_09] PRIMARY KEY CLUSTERED 
+(
+	[ID_xep_hang] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+---
+CREATE TABLE [dbo].[MARK_XepHangHocLuc_TC_09](
+	[ID_xep_hang] [int] NOT NULL,
+	[Tu_diem] [real] NOT NULL,
+	[Den_diem] [real] NOT NULL,
+	[Xep_hang] [nvarchar](20) NOT NULL,
+	[Xep_hang_en] [nvarchar](50) NULL,
+ CONSTRAINT [PK_MARK_XepHangHocLuc_TC_09] PRIMARY KEY CLUSTERED 
+(
+	[ID_xep_hang] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+---
+CREATE TABLE [dbo].[MARK_DiemQuyDoi_TC_09](
+	[ID_xep_loai] [int] IDENTITY(1,1) NOT NULL,
+	[Xep_loai] [nvarchar](50) NOT NULL,
+	[Diem_chu] [nvarchar](2) NOT NULL,
+	[Diem_so] [real] NOT NULL,
+	[Tu_diem] [real] NOT NULL,
+	[Den_diem] [real] NOT NULL,
+	[Tich_luy] [bit] NOT NULL,
+ CONSTRAINT [PK_MARK_DiemQuyDoi_TC_09] PRIMARY KEY CLUSTERED 
+(
+	[ID_xep_loai] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+---
+CREATE TABLE [dbo].[MARK_XepHangNamDaoTao_TC_09](
+	[ID_xep_hang] [int] IDENTITY(1,1) NOT NULL,
+	[Nam_thu] [int] NOT NULL,
+	[Tu_tin_chi] [int] NOT NULL,
+	[Den_tin_chi] [int] NOT NULL,
+	[Nam_thu_en] [nvarchar](50) NULL,
+ CONSTRAINT [PK_MARK_XepHangNamDaoTao_TC_09] PRIMARY KEY CLUSTERED 
+(
+	[ID_xep_hang] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+----
+CREATE PROCEDURE [dbo].[MARK_DiemQuyDoi_TC_DanhSach_09]
+AS
+SELECT  *
+FROM      MARK_DiemQuyDoi_TC_09
+---
+CREATE PROCEDURE [dbo].[MARK_XepLoaiHocTap_TC_HienThi_DanhSach_09]
+AS
+SELECT * FROM MARK_XepLoaiHocTap_TC_09
+---
+CREATE PROCEDURE [dbo].[MARK_XepLoaiChungChi_TC_HienThi_DanhSach_09]
+AS
+SELECT * FROM MARK_XepLoaiChungChi_TC_09
+---
+CREATE PROCEDURE [dbo].[MARK_XepHangHocLuc_TC_HienThi_DanhSach_09]
+AS
+SELECT * FROM MARK_XepHangHocLuc_TC_09
+---
+CREATE PROCEDURE [dbo].[MARK_XepHangTotNghiep_TC_HienThi_DanhSach_09]
+AS
+SELECT * FROM MARK_XepHangTotNghiep_TC_09  ORDER BY Tu_diem DESC
+---
+CREATE PROCEDURE [dbo].[MARK_XepHangNamDaoTao_TC_HienThi_DanhSach_09]
+AS
+SELECT * FROM MARK_XepHangNamDaoTao_TC_09
+

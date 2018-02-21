@@ -1,0 +1,117 @@
+﻿Imports System.Drawing.Drawing2D
+Imports ESS.Bussines
+Imports ESS.Objects
+Imports ESSUtility
+Public Class frmESS_LapDanhSachThi_ThiLai
+    Private dsID_lop As String = "0"
+    Private dsID_dt As String = "0"
+    Private mNien_khoa As String = ""
+    Private Lam_tron_TBCMH As Integer = 0
+    Private Lam_tron_diem_thi As Integer = 0
+    Private Loader As Boolean = False
+    Private mEdit As Boolean = False
+    Private clsDiem As New Diem_Bussines
+    Private clsCTDT As ChuongTrinhDaoTao_Bussines
+    Private mdtDanhSachSinhVien As New DataTable
+
+#Region "Functions And Subs"
+    Private Sub LoadComboBox()
+        Try
+            Add_Hocky(cmbHoc_ky)
+            Add_Namhoc(cmbNam_hoc)
+        Catch ex As Exception
+            Thongbao(ex.Message)
+        End Try
+    End Sub
+#End Region
+
+#Region "Form Events"
+    Private Sub frmESS_NhapDiemThi_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+        Try
+            LoadComboBox()
+            SetUpDataGridView(grdViewDanhsach)
+            Loader = True
+            SetQuyenTruyCap(, cmdSave, , )
+        Catch ex As Exception
+            Thongbao(ex.Message)
+        End Try
+    End Sub
+    Private Sub frmESS_NhapDiemThiLop_Paint(ByVal sender As Object, ByVal e As System.Windows.Forms.PaintEventArgs) Handles Me.Paint
+        Dim brush As Brush = New LinearGradientBrush(New Rectangle(0, 0, Width, Height), gBgColor1, gBgColor2, 90.0F)
+        e.Graphics.FillRectangle(brush, 0, 0, Width, Height)
+    End Sub
+#End Region
+
+#Region "Control Events"
+    Private Sub cmdSave_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmdSave.Click
+        Try
+            mEdit = False
+            grdViewDanhsach.EndEdit()
+            Dim clsTCTDangKyThiCaiThien As New ToChucThiDangKyCaiThienDiem_Bussines
+            Dim Hoc_ky As Integer = cmbHoc_ky.SelectedValue
+            Dim Nam_hoc As String = cmbNam_hoc.Text
+            Dim ID_mon As Integer = cmbID_mon.SelectedValue
+            Dim dt As DataTable = grdViewDanhsach.DataSource
+            Dim cls As New TochucThi_Bussines
+            For i As Integer = 0 To dt.Rows.Count - 1
+                Dim obj As New ESSToChucThiDangKyCaiThienDiem
+                obj.ID_sv = dt.Rows(i)("ID_sv")
+                obj.Hoc_ky = Hoc_ky
+                obj.Nam_hoc = Nam_hoc
+                obj.ID_mon = ID_mon
+                obj.Duyet = IIf(dt.Rows(i)("Duyet"), 1, 0)
+                obj.Ghi_chu = dt.Rows(i)("Ghi_chu").ToString
+                clsTCTDangKyThiCaiThien.CapNhat_ESSToChucThiDangKyCaiThienDiem(obj)
+            Next
+            Thongbao("Duyệt đăng ký thi cải thiện thành công", MsgBoxStyle.Information)
+        Catch ex As Exception
+            Thongbao(ex.Message)
+        End Try
+    End Sub
+    Private Sub cmdExcel_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmdExcel.Click
+        Me.Cursor = Cursors.WaitCursor
+        Try
+            Dim clsExcel As New ExportCommon
+            Dim Tieu_de As String = ""
+            clsExcel.ExportFromDataGridViewToExcel(grdViewDanhsach, Nothing)
+        Catch ex As Exception
+            Thongbao(ex.Message)
+        End Try
+        Me.Cursor = Cursors.Default
+    End Sub
+    Private Sub cmbHocKy_NamHoc_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmbHoc_ky.SelectedIndexChanged, cmbNam_hoc.SelectedIndexChanged
+        Try
+            If Loader AndAlso (cmbHoc_ky.Text.Trim <> "" And cmbNam_hoc.Text.Trim <> "") Then
+                Dim cls As New DanhMuc_Bussines
+                Dim SQL As String = "SELECT Distinct a.ID_mon,  a.Ky_hieu + ' - '+ Ten_mon from  MARK_MonHoc a INNER join MARK_ToChucThiDangKyCaiThienDiem_TC b ON a.ID_mon=b.ID_mon WHERE Hoc_ky=" & cmbHoc_ky.Text & " AND Nam_hoc='" & cmbNam_hoc.Text & "'"
+                Dim dt As DataTable = cls.DanhMuc_Load(SQL)
+                FillCombo(cmbID_mon, dt)
+            End If
+        Catch ex As Exception
+            Thongbao(ex.Message)
+        End Try
+    End Sub
+    Private Sub cmbMonHoc_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmbID_mon.SelectedIndexChanged
+        Try
+            Try
+                If Loader Then
+                    Dim Hoc_ky As Integer = cmbHoc_ky.SelectedValue
+                    Dim Nam_hoc As String = cmbNam_hoc.Text
+                    Dim ID_mon As Integer = cmbID_mon.SelectedValue
+                    Dim cls As New TochucThi_Bussines
+                    Dim dt As DataTable = cls.HienThi_ESSDS_dangkyThiLai(ID_mon, Hoc_ky, Nam_hoc)
+                    grdViewDanhsach.DataSource = dt
+                End If
+            Catch ex As Exception
+                Thongbao(ex.Message)
+            End Try
+        Catch ex As Exception
+            Thongbao(ex.Message)
+        End Try
+    End Sub
+#End Region
+
+    Private Sub cmdClose_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmdClose.Click
+        Me.Close()
+    End Sub
+End Class

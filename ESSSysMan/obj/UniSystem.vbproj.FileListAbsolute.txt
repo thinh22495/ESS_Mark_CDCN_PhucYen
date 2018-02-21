@@ -1,0 +1,190 @@
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\bin\UniSystem.exe.config
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\bin\UniSystem.exe
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\bin\UniSystem.pdb
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\bin\C1.C1PrintDocument.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\bin\C1.Common.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\bin\C1.PrintUtil.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\bin\C1.Win.C1FlexGrid.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\bin\C1.Win.C1PrintPreview.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\bin\HttpDownload.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\bin\Interop.Excel.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\bin\ThienAn.BLL.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\bin\ThienAn.Entity.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\bin\ThienAn.UniLibrary.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\bin\Interop.Office.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\bin\ThienAn.DAL.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\bin\Interop.VBIDE.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\bin\ThienAn.UniLibrary.pdb
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\bin\ThienAn.Entity.pdb
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\bin\ThienAn.DAL.pdb
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\bin\ThienAn.BLL.pdb
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\obj\Debug\UniSystem.frmChangePassword.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\obj\Debug\UniSystem.frmUsersCoVanHocTap.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\obj\Debug\UniSystem.frmMain.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\obj\Debug\UniSystem.frmServerChange.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\obj\Debug\UniSystem.frmThamSoHeThong.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\obj\Debug\UniSystem.frmThayDoiMatKhau.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\obj\Debug\UniSystem.frmTraCuuLog.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\obj\Debug\UniSystem.frmUserLDAP.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\obj\Debug\UniSystem.frmVaiTroGanLop.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\obj\Debug\UniSystem.frmUsers.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\obj\Debug\UniSystem.frmUsersGanVaiTro.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\obj\Debug\UniSystem.frmUsersList.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\obj\Debug\UniSystem.frmUserSinhVien.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\obj\Debug\UniSystem.frmLogin.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\obj\Debug\UniSystem.frmMsgBox.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\obj\Debug\UniSystem.frmVaiTro.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\obj\Debug\UniSystem.frmVaiTroGanQuyen.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\obj\Debug\UniSystem.frmVaiTroList.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\obj\Debug\UniSystem.Resources.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\obj\Debug\UniSystem.ToolBar.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\obj\Debug\UniSystem.TreeViewChuyenNganh.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\obj\Debug\UniSystem.TreeViewLop.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\obj\Debug\UniSystem.vbproj.GenerateResource.Cache
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\obj\Debug\UniSystem.exe.licenses
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\obj\Debug\UniSystem.exe
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\obj\Debug\UniSystem.pdb
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\bin\ThienAn.Machine.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\28092010\UniSystem\bin\ThienAn.Machine.pdb
+E:\28092010 on VTV (vtvpro)\UniSystem\bin\UniSystem.exe.config
+E:\28092010 on VTV (vtvpro)\UniSystem\bin\UniSystem.exe
+E:\28092010 on VTV (vtvpro)\UniSystem\bin\UniSystem.pdb
+E:\28092010 on VTV (vtvpro)\UniSystem\bin\Interop.Excel.dll
+E:\28092010 on VTV (vtvpro)\UniSystem\bin\ThienAn.BLL.dll
+E:\28092010 on VTV (vtvpro)\UniSystem\bin\ThienAn.Entity.dll
+E:\28092010 on VTV (vtvpro)\UniSystem\bin\ThienAn.UniLibrary.dll
+E:\28092010 on VTV (vtvpro)\UniSystem\bin\Interop.Office.dll
+E:\28092010 on VTV (vtvpro)\UniSystem\bin\Interop.VBIDE.dll
+E:\28092010 on VTV (vtvpro)\UniSystem\bin\ThienAn.UniLibrary.pdb
+E:\28092010 on VTV (vtvpro)\UniSystem\bin\ThienAn.Entity.pdb
+E:\28092010 on VTV (vtvpro)\UniSystem\bin\ThienAn.BLL.pdb
+E:\28092010 on VTV (vtvpro)\UniSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\28092010 on VTV (vtvpro)\UniSystem\obj\Debug\UniSystem.frmChangePassword.resources
+E:\28092010 on VTV (vtvpro)\UniSystem\obj\Debug\UniSystem.frmUsersCoVanHocTap.resources
+E:\28092010 on VTV (vtvpro)\UniSystem\obj\Debug\UniSystem.frmMain.resources
+E:\28092010 on VTV (vtvpro)\UniSystem\obj\Debug\UniSystem.frmServerChange.resources
+E:\28092010 on VTV (vtvpro)\UniSystem\obj\Debug\UniSystem.frmThamSoHeThong.resources
+E:\28092010 on VTV (vtvpro)\UniSystem\obj\Debug\UniSystem.frmThayDoiMatKhau.resources
+E:\28092010 on VTV (vtvpro)\UniSystem\obj\Debug\UniSystem.frmTraCuuLog.resources
+E:\28092010 on VTV (vtvpro)\UniSystem\obj\Debug\UniSystem.frmUserLDAP.resources
+E:\28092010 on VTV (vtvpro)\UniSystem\obj\Debug\UniSystem.frmVaiTroGanLop.resources
+E:\28092010 on VTV (vtvpro)\UniSystem\obj\Debug\UniSystem.frmUsers.resources
+E:\28092010 on VTV (vtvpro)\UniSystem\obj\Debug\UniSystem.frmUsersGanVaiTro.resources
+E:\28092010 on VTV (vtvpro)\UniSystem\obj\Debug\UniSystem.frmUsersList.resources
+E:\28092010 on VTV (vtvpro)\UniSystem\obj\Debug\UniSystem.frmUserSinhVien.resources
+E:\28092010 on VTV (vtvpro)\UniSystem\obj\Debug\UniSystem.frmLogin.resources
+E:\28092010 on VTV (vtvpro)\UniSystem\obj\Debug\UniSystem.frmMsgBox.resources
+E:\28092010 on VTV (vtvpro)\UniSystem\obj\Debug\UniSystem.frmVaiTro.resources
+E:\28092010 on VTV (vtvpro)\UniSystem\obj\Debug\UniSystem.frmVaiTroGanQuyen.resources
+E:\28092010 on VTV (vtvpro)\UniSystem\obj\Debug\UniSystem.frmVaiTroList.resources
+E:\28092010 on VTV (vtvpro)\UniSystem\obj\Debug\UniSystem.Resources.resources
+E:\28092010 on VTV (vtvpro)\UniSystem\obj\Debug\UniSystem.ToolBar.resources
+E:\28092010 on VTV (vtvpro)\UniSystem\obj\Debug\UniSystem.TreeViewChuyenNganh.resources
+E:\28092010 on VTV (vtvpro)\UniSystem\obj\Debug\UniSystem.TreeViewLop.resources
+E:\28092010 on VTV (vtvpro)\UniSystem\obj\Debug\UniSystem.vbproj.GenerateResource.Cache
+E:\28092010 on VTV (vtvpro)\UniSystem\obj\Debug\UniSystem.exe.licenses
+E:\28092010 on VTV (vtvpro)\UniSystem\obj\Debug\UniSystem.exe
+E:\28092010 on VTV (vtvpro)\UniSystem\obj\Debug\UniSystem.pdb
+E:\28092010 on VTV (vtvpro)\UniSystem\bin\ThienAn.DAL.dll
+E:\28092010 on VTV (vtvpro)\UniSystem\bin\ThienAn.DAL.pdb
+E:\28092010 on VTV (vtvpro)\UniSystem\bin\ThienAn.Machine.dll
+E:\28092010 on VTV (vtvpro)\UniSystem\bin\ThienAn.Machine.pdb
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\bin\UniSystem.exe.config
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\bin\UniSystem.exe
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\bin\UniSystem.pdb
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\bin\C1.C1PrintDocument.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\bin\C1.Common.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\bin\C1.PrintUtil.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\bin\C1.Win.C1FlexGrid.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\bin\C1.Win.C1PrintPreview.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\bin\HttpDownload.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\bin\Interop.Excel.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\bin\ThienAn.BLL.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\bin\ThienAn.Entity.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\bin\ThienAn.UniLibrary.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\bin\ThienAn.Machine.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\bin\Interop.Office.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\bin\ThienAn.DAL.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\bin\Interop.VBIDE.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\bin\ThienAn.UniLibrary.pdb
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\bin\ThienAn.Machine.pdb
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\bin\ThienAn.Entity.pdb
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\bin\ThienAn.DAL.pdb
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\bin\ThienAn.BLL.pdb
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\obj\Debug\UniSystem.frmChangePassword.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\obj\Debug\UniSystem.frmUsersCoVanHocTap.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\obj\Debug\UniSystem.frmMain.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\obj\Debug\UniSystem.frmServerChange.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\obj\Debug\UniSystem.frmThamSoHeThong.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\obj\Debug\UniSystem.frmThayDoiMatKhau.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\obj\Debug\UniSystem.frmTraCuuLog.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\obj\Debug\UniSystem.frmUserLDAP.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\obj\Debug\UniSystem.frmVaiTroGanLop.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\obj\Debug\UniSystem.frmUsers.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\obj\Debug\UniSystem.frmUsersGanVaiTro.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\obj\Debug\UniSystem.frmUsersList.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\obj\Debug\UniSystem.frmUserSinhVien.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\obj\Debug\UniSystem.frmLogin.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\obj\Debug\UniSystem.frmMsgBox.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\obj\Debug\UniSystem.frmVaiTro.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\obj\Debug\UniSystem.frmVaiTroGanQuyen.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\obj\Debug\UniSystem.frmVaiTroList.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\obj\Debug\UniSystem.Resources.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\obj\Debug\UniSystem.ToolBar.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\obj\Debug\UniSystem.TreeViewChuyenNganh.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\obj\Debug\UniSystem.TreeViewLop.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\obj\Debug\UniSystem.vbproj.GenerateResource.Cache
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\obj\Debug\UniSystem.exe.licenses
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\obj\Debug\UniSystem.exe
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\20122010\UniSystem\obj\Debug\UniSystem.pdb
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\bin\UniSystem.exe.config
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\bin\UniSystem.exe
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\bin\UniSystem.pdb
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\bin\C1.C1PrintDocument.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\bin\C1.Common.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\bin\C1.PrintUtil.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\bin\C1.Win.C1FlexGrid.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\bin\C1.Win.C1PrintPreview.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\bin\HttpDownload.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\bin\Interop.Excel.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\bin\ThienAn.BLL.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\bin\ThienAn.Entity.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\bin\ThienAn.UniLibrary.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\bin\ThienAn.Machine.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\bin\Interop.Office.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\bin\ThienAn.DAL.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\bin\Interop.VBIDE.dll
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\bin\ThienAn.UniLibrary.pdb
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\bin\ThienAn.Machine.pdb
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\bin\ThienAn.Entity.pdb
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\bin\ThienAn.DAL.pdb
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\bin\ThienAn.BLL.pdb
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\obj\Debug\UniSystem.frmChangePassword.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\obj\Debug\UniSystem.frmUsersCoVanHocTap.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\obj\Debug\UniSystem.frmMain.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\obj\Debug\UniSystem.frmServerChange.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\obj\Debug\UniSystem.frmThamSoHeThong.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\obj\Debug\UniSystem.frmThayDoiMatKhau.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\obj\Debug\UniSystem.frmTraCuuLog.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\obj\Debug\UniSystem.frmUserLDAP.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\obj\Debug\UniSystem.frmVaiTroGanLop.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\obj\Debug\UniSystem.frmUsers.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\obj\Debug\UniSystem.frmUsersGanVaiTro.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\obj\Debug\UniSystem.frmUsersList.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\obj\Debug\UniSystem.frmUserSinhVien.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\obj\Debug\UniSystem.frmLogin.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\obj\Debug\UniSystem.frmMsgBox.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\obj\Debug\UniSystem.frmVaiTro.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\obj\Debug\UniSystem.frmVaiTroGanQuyen.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\obj\Debug\UniSystem.frmVaiTroList.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\obj\Debug\UniSystem.Resources.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\obj\Debug\UniSystem.ToolBar.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\obj\Debug\UniSystem.TreeViewChuyenNganh.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\obj\Debug\UniSystem.TreeViewLop.resources
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\obj\Debug\UniSystem.vbproj.GenerateResource.Cache
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\obj\Debug\UniSystem.exe.licenses
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\obj\Debug\UniSystem.exe
+E:\Project\Company\UNISOFT\Projects\UNISOFT_DHSP1\10022011\UniSystem\obj\Debug\UniSystem.pdb

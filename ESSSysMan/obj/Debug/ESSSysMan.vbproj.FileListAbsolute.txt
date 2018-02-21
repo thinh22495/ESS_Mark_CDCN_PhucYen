@@ -1,0 +1,456 @@
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\bin\SysMan.exe.config
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\bin\SysMan.exe
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\bin\SysMan.pdb
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\bin\ESS.Bussines.dll
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\bin\ESS.Objects.dll
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\bin\ESSUtility.dll
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\bin\ESSConnect.dll
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\bin\ESS.DataAccess.dll
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\bin\ESSConnect.pdb
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\bin\ESSUtility.pdb
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\bin\ESS.Bussines.pdb
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\bin\ESS.Bussines.xml
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\bin\ESS.Objects.pdb
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\bin\ESS.Objects.xml
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\bin\ESS.DataAccess.pdb
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\bin\ESS.DataAccess.xml
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\obj\Debug\ESSSysMan.frmESS_ChangePassword.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\obj\Debug\ESSSysMan.frmESS_UsersCoVanHocTap.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\obj\Debug\ESSSysMan.frmESS_Main.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\obj\Debug\ESSSysMan.frmESS_ServerChange.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\obj\Debug\ESSSysMan.frmESS_ThamSoHeThong.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\obj\Debug\ESSSysMan.frmESS_ThayDoiMatKhau.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\obj\Debug\ESSSysMan.frmESS_TraCuuLog.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\obj\Debug\ESSSysMan.frmESS_UserLDAP.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\obj\Debug\ESSSysMan.frmESS_VaiTroGanLop.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\obj\Debug\ESSSysMan.frmESS_Users.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\obj\Debug\ESSSysMan.frmESS_UsersGanVaiTro.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\obj\Debug\ESSSysMan.frmESS_UsersList.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\obj\Debug\ESSSysMan.frmESS_UserSinhVien.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\obj\Debug\ESSSysMan.frmESS_Login.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\obj\Debug\ESSSysMan.frmESS_MsgBox.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\obj\Debug\ESSSysMan.frmESS_VaiTro.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\obj\Debug\ESSSysMan.frmESS_VaiTroGanQuyen.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\obj\Debug\ESSSysMan.frmESS_VaiTroList.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\obj\Debug\ESSSysMan.Resources.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\obj\Debug\ESSSysMan.ToolBar.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\obj\Debug\ESSSysMan.TreeViewChuyenNganh.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\obj\Debug\ESSSysMan.TreeViewLop.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\obj\Debug\ESSSysMan.vbproj.GenerateResource.Cache
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\obj\Debug\SysMan.exe
+E:\Project\Company\Working\EDU\ESS_TC\ESSSystem\obj\Debug\SysMan.pdb
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\bin\SysMan.exe.config
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\bin\SysMan.exe
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\bin\SysMan.pdb
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\bin\ESS.Bussines.dll
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\bin\ESS.Objects.dll
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\bin\ESSUtility.dll
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\bin\ESS.DataAccess.dll
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\bin\ESSConnect.dll
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\bin\ESSUtility.pdb
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\bin\ESS.Bussines.pdb
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\bin\ESS.Bussines.xml
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\bin\ESS.Objects.pdb
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\bin\ESS.Objects.xml
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\bin\ESS.DataAccess.pdb
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\bin\ESS.DataAccess.xml
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\bin\ESSConnect.pdb
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ChangePassword.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UsersCoVanHocTap.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\obj\Debug\ESSSysMan.frmESS_Main.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ServerChange.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ThamSoHeThong.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ThayDoiMatKhau.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\obj\Debug\ESSSysMan.frmESS_TraCuuLog.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UserLDAP.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTroGanLop.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\obj\Debug\ESSSysMan.frmESS_Users.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UsersGanVaiTro.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UsersList.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UserSinhVien.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\obj\Debug\ESSSysMan.frmESS_Login.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\obj\Debug\ESSSysMan.frmESS_MsgBox.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTro.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTroGanQuyen.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTroList.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\obj\Debug\ESSSysMan.Resources.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\obj\Debug\ESSSysMan.ToolBar.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\obj\Debug\ESSSysMan.TreeViewChuyenNganh.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\obj\Debug\ESSSysMan.TreeViewLop.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\obj\Debug\ESSSysMan.vbproj.GenerateResource.Cache
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\obj\Debug\SysMan.exe
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\obj\Debug\SysMan.pdb
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\obj\Debug\ESSSysMan.frmESS_CauHinhKetNoi.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\obj\Debug\ESSSysMan.frmESS_DangNhap.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\obj\Debug\ESSSysMan.frmMain.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSSysMan\obj\Debug\SysMan.exe.licenses
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\bin\SysMan.exe.config
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\bin\SysMan.exe
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\bin\SysMan.pdb
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\bin\ESS.Bussines.dll
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\bin\ESS.Objects.dll
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\bin\ESSUtility.dll
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\bin\ESS.DataAccess.dll
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\bin\ESSConnect.dll
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\bin\ESSUtility.pdb
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\bin\ESS.Bussines.pdb
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\bin\ESS.Bussines.xml
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\bin\ESS.Objects.pdb
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\bin\ESS.Objects.xml
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\bin\ESS.DataAccess.pdb
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\bin\ESS.DataAccess.xml
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\bin\ESSConnect.pdb
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_CauHinhKetNoi.resources
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ChangePassword.resources
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_DangNhap.resources
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UsersCoVanHocTap.resources
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_Main.resources
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ServerChange.resources
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ThamSoHeThong.resources
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ThayDoiMatKhau.resources
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_TraCuuLog.resources
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UserLDAP.resources
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTroGanLop.resources
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_Users.resources
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UsersGanVaiTro.resources
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UsersList.resources
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UserSinhVien.resources
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_Login.resources
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_MsgBox.resources
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTro.resources
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTroGanQuyen.resources
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTroList.resources
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmMain.resources
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.Resources.resources
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.ToolBar.resources
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.TreeViewChuyenNganh.resources
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.TreeViewLop.resources
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.vbproj.GenerateResource.Cache
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\obj\Debug\SysMan.exe.licenses
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\obj\Debug\SysMan.exe
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSSysMan\obj\Debug\SysMan.pdb
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\bin\SysMan.exe.config
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\bin\SysMan.exe
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\bin\SysMan.pdb
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\bin\ESS.Bussines.dll
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\bin\ESS.Objects.dll
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\bin\ESSUtility.dll
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\bin\ESS.DataAccess.dll
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\bin\ESSConnect.dll
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\bin\ESSUtility.pdb
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\bin\ESS.Bussines.pdb
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\bin\ESS.Bussines.xml
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\bin\ESS.Objects.pdb
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\bin\ESS.Objects.xml
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\bin\ESS.DataAccess.pdb
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\bin\ESS.DataAccess.xml
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\bin\ESSConnect.pdb
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_CauHinhKetNoi.resources
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ChangePassword.resources
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_DangNhap.resources
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UsersCoVanHocTap.resources
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_Main.resources
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ServerChange.resources
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ThamSoHeThong.resources
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ThayDoiMatKhau.resources
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_TraCuuLog.resources
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UserLDAP.resources
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTroGanLop.resources
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_Users.resources
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UsersGanVaiTro.resources
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UsersList.resources
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UserSinhVien.resources
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_Login.resources
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_MsgBox.resources
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTro.resources
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTroGanQuyen.resources
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTroList.resources
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.frmMain.resources
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.Resources.resources
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.ToolBar.resources
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.TreeViewChuyenNganh.resources
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.TreeViewLop.resources
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\obj\Debug\ESSSysMan.vbproj.GenerateResource.Cache
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\obj\Debug\SysMan.exe.licenses
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\obj\Debug\SysMan.exe
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSSysMan\obj\Debug\SysMan.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\bin\SysMan.exe.config
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\bin\SysMan.exe
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\bin\SysMan.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\bin\ESS.Bussines.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\bin\ESS.Objects.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\bin\ESSUtility.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\bin\ESS.DataAccess.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\bin\ESSConnect.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\bin\ESSUtility.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\bin\ESS.Bussines.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\bin\ESS.Bussines.xml
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\bin\ESS.Objects.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\bin\ESS.Objects.xml
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\bin\ESS.DataAccess.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\bin\ESS.DataAccess.xml
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\bin\ESSConnect.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_CauHinhKetNoi.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ChangePassword.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_DangNhap.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UsersCoVanHocTap.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_Main.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ServerChange.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ThamSoHeThong.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ThayDoiMatKhau.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_TraCuuLog.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UserLDAP.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTroGanLop.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_Users.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UsersGanVaiTro.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UsersList.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UserSinhVien.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_Login.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_MsgBox.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTro.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTroGanQuyen.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTroList.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\obj\Debug\ESSSysMan.frmMain.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\obj\Debug\ESSSysMan.Resources.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\obj\Debug\ESSSysMan.ToolBar.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\obj\Debug\ESSSysMan.TreeViewChuyenNganh.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\obj\Debug\ESSSysMan.TreeViewLop.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\obj\Debug\ESSSysMan.vbproj.GenerateResource.Cache
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\obj\Debug\SysMan.exe.licenses
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\obj\Debug\SysMan.exe
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSSysMan\obj\Debug\SysMan.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\bin\SysMan.exe.config
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\bin\SysMan.exe
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\bin\SysMan.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\bin\ESS.Bussines.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\bin\ESS.Objects.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\bin\ESSUtility.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\bin\ESS.DataAccess.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\bin\ESSConnect.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\bin\ESSUtility.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\bin\ESS.Bussines.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\bin\ESS.Bussines.xml
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\bin\ESS.Objects.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\bin\ESS.Objects.xml
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\bin\ESS.DataAccess.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\bin\ESS.DataAccess.xml
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\bin\ESSConnect.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\obj\Debug\ESSSysMan.frmESS_CauHinhKetNoi.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ChangePassword.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\obj\Debug\ESSSysMan.frmESS_DangNhap.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UsersCoVanHocTap.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\obj\Debug\ESSSysMan.frmESS_Main.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ServerChange.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ThamSoHeThong.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ThayDoiMatKhau.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\obj\Debug\ESSSysMan.frmESS_TraCuuLog.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UserLDAP.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTroGanLop.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\obj\Debug\ESSSysMan.frmESS_Users.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UsersGanVaiTro.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UsersList.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UserSinhVien.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\obj\Debug\ESSSysMan.frmESS_Login.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\obj\Debug\ESSSysMan.frmESS_MsgBox.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTro.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTroGanQuyen.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTroList.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\obj\Debug\ESSSysMan.frmMain.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\obj\Debug\ESSSysMan.Resources.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\obj\Debug\ESSSysMan.ToolBar.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\obj\Debug\ESSSysMan.TreeViewChuyenNganh.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\obj\Debug\ESSSysMan.TreeViewLop.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\obj\Debug\ESSSysMan.vbproj.GenerateResource.Cache
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\obj\Debug\SysMan.exe.licenses
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\obj\Debug\SysMan.exe
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSSysMan\obj\Debug\SysMan.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\bin\SysMan.exe.config
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\bin\SysMan.exe
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\bin\SysMan.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\bin\ESS.Bussines.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\bin\ESS.Objects.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\bin\ESSUtility.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\bin\ESS.DataAccess.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\bin\ESSConnect.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\bin\ESSUtility.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\bin\ESS.Bussines.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\bin\ESS.Bussines.xml
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\bin\ESS.Objects.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\bin\ESS.Objects.xml
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\bin\ESS.DataAccess.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\bin\ESS.DataAccess.xml
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\bin\ESSConnect.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_CauHinhKetNoi.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ChangePassword.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_DangNhap.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UsersCoVanHocTap.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_Main.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ServerChange.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ThamSoHeThong.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ThayDoiMatKhau.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_TraCuuLog.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UserLDAP.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTroGanLop.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_Users.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UsersGanVaiTro.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UsersList.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UserSinhVien.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_Login.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_MsgBox.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTro.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTroGanQuyen.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTroList.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\obj\Debug\ESSSysMan.frmMain.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\obj\Debug\ESSSysMan.Resources.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\obj\Debug\ESSSysMan.ToolBar.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\obj\Debug\ESSSysMan.TreeViewChuyenNganh.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\obj\Debug\ESSSysMan.TreeViewLop.resources
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\obj\Debug\ESSSysMan.vbproj.GenerateResource.Cache
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\obj\Debug\SysMan.exe.licenses
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\obj\Debug\SysMan.exe
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSSysMan\obj\Debug\SysMan.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\SysMan.exe.config
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\SysMan.exe
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\SysMan.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESS.Bussines.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESSUtility.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESSUtility.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESS.Bussines.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESS.Bussines.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_CauHinhKetNoi.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ChangePassword.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_DangNhap.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UsersCoVanHocTap.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_Main.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ServerChange.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ThamSoHeThong.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ThayDoiMatKhau.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_TraCuuLog.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UserLDAP.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTroGanLop.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_Users.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UsersGanVaiTro.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UsersList.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UserSinhVien.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_Login.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_MsgBox.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTro.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTroGanQuyen.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTroList.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmMain.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.Resources.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.ToolBar.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.TreeViewChuyenNganh.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.TreeViewLop.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.vbproj.GenerateResource.Cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\SysMan.exe.licenses
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\SysMan.exe
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\SysMan.pdb
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\SysMan.exe.config
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\SysMan.exe
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\SysMan.pdb
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESS.Bussines.dll
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESS.Objects.dll
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESSUtility.dll
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESS.DataAccess.dll
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESSConnect.dll
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESSUtility.pdb
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESS.Bussines.pdb
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESS.Bussines.xml
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESS.Objects.pdb
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESS.Objects.xml
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESS.DataAccess.pdb
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESS.DataAccess.xml
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESSConnect.pdb
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_CauHinhKetNoi.resources
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ChangePassword.resources
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_DangNhap.resources
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UsersCoVanHocTap.resources
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_Main.resources
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ServerChange.resources
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ThamSoHeThong.resources
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ThayDoiMatKhau.resources
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_TraCuuLog.resources
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UserLDAP.resources
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTroGanLop.resources
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_Users.resources
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UsersGanVaiTro.resources
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UsersList.resources
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UserSinhVien.resources
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_Login.resources
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_MsgBox.resources
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTro.resources
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTroGanQuyen.resources
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTroList.resources
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmMain.resources
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.Resources.resources
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.ToolBar.resources
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.TreeViewChuyenNganh.resources
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.TreeViewLop.resources
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.vbproj.GenerateResource.Cache
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\SysMan.exe.licenses
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\SysMan.exe
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\SysMan.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\SysMan.exe.config
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\SysMan.exe
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\SysMan.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESS.Bussines.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESSUtility.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESSUtility.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESS.Bussines.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESS.Bussines.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_CauHinhKetNoi.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ChangePassword.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_DangNhap.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UsersCoVanHocTap.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_Main.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ServerChange.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ThamSoHeThong.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_ThayDoiMatKhau.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_TraCuuLog.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UserLDAP.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTroGanLop.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_Users.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UsersGanVaiTro.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UsersList.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_UserSinhVien.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_Login.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_MsgBox.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTro.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTroGanQuyen.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmESS_VaiTroList.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.frmMain.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.Resources.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.ToolBar.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.TreeViewChuyenNganh.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.TreeViewLop.resources
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\ESSSysMan.vbproj.GenerateResource.Cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\SysMan.exe.licenses
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\SysMan.exe
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSSysMan\obj\Debug\SysMan.pdb

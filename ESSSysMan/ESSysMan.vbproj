@@ -1,0 +1,514 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CEC494D9-935F-4FD3-A2E7-5B7411FF2404}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>fireworks.ico</ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>ESSSysMan</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyMode>None</AssemblyOriginatorKeyMode>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>WinExe</OutputType>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <RootNamespace>ESSSysMan</RootNamespace>
+    <StartupObject>ESSSysMan.My.MyApplication</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <MyType>WindowsForms</MyType>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkSubset>
+    </TargetFrameworkSubset>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>ESSSysMan.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>ESSSysMan.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032</NoWarn>
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="C1.C1PrintDocument, Version=1.0.20023.101, Culture=neutral, PublicKeyToken=1a6f4158ebe6d3b8">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\C1.C1PrintDocument.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Common, Version=1.0.20031.116, Culture=neutral, PublicKeyToken=e272bb32d11b1948">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\C1.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.PrintUtil, Version=1.0.20023.101, Culture=neutral, PublicKeyToken=b16543415225f099">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\C1.PrintUtil.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1FlexGrid, Version=1.1.20023.44, Culture=neutral, PublicKeyToken=c9c7ad9c0a5706c9">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\C1.Win.C1FlexGrid.DLL</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1PrintPreview, Version=1.0.20023.101, Culture=neutral, PublicKeyToken=3af768410ba0a64f">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\C1.Win.C1PrintPreview.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1Report, Version=1.1.20023.28, Culture=neutral, PublicKeyToken=c9c7ad9c0a5706c9">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.Data.v10.1, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v10.1, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v10.1, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v10.1.Design, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v10.1, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v10.1, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v10.1.Design, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v10.1, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v10.1.Design, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v10.1, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v10.1.Design, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="HttpDownload, Version=1.0.3752.28863, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Interop.Excel, Version=1.3.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\UniMark\bin\Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Janus.Windows.Common.v2, Version=2.0.1109.0, Culture=neutral, PublicKeyToken=21d5517571b185bf">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Janus.Windows.Common.v2.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="janus.windows.ui.v2, Version=2.0.1109.0, Culture=neutral, PublicKeyToken=21d5517571b185bf">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\janus.windows.ui.v2.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Design">
+      <Name>System.Design</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <Compile Include="AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Connect_data.vb" />
+    <Compile Include="frmESS_CauHinhKetNoi.designer.vb">
+      <DependentUpon>frmESS_CauHinhKetNoi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_CauHinhKetNoi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ChangePassword.designer.vb">
+      <DependentUpon>frmESS_ChangePassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ChangePassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_DangNhap.designer.vb">
+      <DependentUpon>frmESS_DangNhap.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_DangNhap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_UsersCoVanHocTap.designer.vb">
+      <DependentUpon>frmESS_UsersCoVanHocTap.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_UsersCoVanHocTap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_Main.Designer.vb">
+      <DependentUpon>frmESS_Main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ServerChange.designer.vb">
+      <DependentUpon>frmESS_ServerChange.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ServerChange.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ThamSoHeThong.Designer.vb">
+      <DependentUpon>frmESS_ThamSoHeThong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ThamSoHeThong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ThayDoiMatKhau.Designer.vb">
+      <DependentUpon>frmESS_ThayDoiMatKhau.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ThayDoiMatKhau.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_TraCuuLog.Designer.vb">
+      <DependentUpon>frmESS_TraCuuLog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_TraCuuLog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_UserLDAP.Designer.vb">
+      <DependentUpon>frmESS_UserLDAP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_UserLDAP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_UsersGanHe.Designer.vb">
+      <DependentUpon>frmESS_UsersGanHe.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_UsersGanHe.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_Users.Designer.vb">
+      <DependentUpon>frmESS_Users.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_Users.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_UsersGanVaiTro.Designer.vb">
+      <DependentUpon>frmESS_UsersGanVaiTro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_UsersGanVaiTro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_UsersList.Designer.vb">
+      <DependentUpon>frmESS_UsersList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_UsersList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_UserSinhVien.Designer.vb">
+      <DependentUpon>frmESS_UserSinhVien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_UserSinhVien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_Login.Designer.vb">
+      <DependentUpon>frmESS_Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_MsgBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_VaiTro.Designer.vb">
+      <DependentUpon>frmESS_VaiTro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_VaiTro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_VaiTroGanQuyen.Designer.vb">
+      <DependentUpon>frmESS_VaiTroGanQuyen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_VaiTroGanQuyen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_VaiTroList.Designer.vb">
+      <DependentUpon>frmESS_VaiTroList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_VaiTroList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IniFile.vb" />
+    <Compile Include="mdlCheckVersion.vb" />
+    <Compile Include="mdlCommon.vb" />
+    <Compile Include="mdlEnumNConst.vb" />
+    <Compile Include="mdlMsg.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\ToolBar.Designer.vb">
+      <DependentUpon>ToolBar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\ToolBar.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\TreeViewChuyenNganh.Designer.vb">
+      <DependentUpon>TreeViewChuyenNganh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\TreeViewChuyenNganh.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\TreeViewLop.designer.vb">
+      <DependentUpon>TreeViewLop.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\TreeViewLop.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <EmbeddedResource Include="frmESS_CauHinhKetNoi.resx">
+      <DependentUpon>frmESS_CauHinhKetNoi.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ChangePassword.resx">
+      <DependentUpon>frmESS_ChangePassword.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_DangNhap.resx">
+      <DependentUpon>frmESS_DangNhap.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_UsersCoVanHocTap.resx">
+      <DependentUpon>frmESS_UsersCoVanHocTap.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_Main.resx">
+      <DependentUpon>frmESS_Main.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ServerChange.resx">
+      <DependentUpon>frmESS_ServerChange.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ThamSoHeThong.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_ThamSoHeThong.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ThayDoiMatKhau.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_ThayDoiMatKhau.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_TraCuuLog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_TraCuuLog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_UserLDAP.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_UserLDAP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_UsersGanHe.resx">
+      <DependentUpon>frmESS_UsersGanHe.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_Users.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_Users.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_UsersGanVaiTro.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_UsersGanVaiTro.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_UsersList.resx">
+      <DependentUpon>frmESS_UsersList.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_UserSinhVien.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_UserSinhVien.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_Login.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_MsgBox.resx">
+      <DependentUpon>frmESS_MsgBox.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_VaiTro.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_VaiTro.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_VaiTroGanQuyen.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_VaiTroGanQuyen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_VaiTroList.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_VaiTroList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <SubType>Designer</SubType>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\ToolBar.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ToolBar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\TreeViewChuyenNganh.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TreeViewChuyenNganh.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\TreeViewLop.resx">
+      <DependentUpon>TreeViewLop.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Settings.settings">
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="fireworks.ico" />
+    <Content Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </Content>
+    <None Include="Resources\KiemTraKetNoi.png" />
+    <None Include="Resources\delete.png" />
+    <None Include="Resources\CauHinh.png" />
+    <None Include="Resources\DangNhap.png" />
+    <None Include="Resources\View.png" />
+    <None Include="Resources\ThongKe.png" />
+    <None Include="Resources\Search.png" />
+    <None Include="Resources\Save.png" />
+    <None Include="Resources\Remove.png" />
+    <None Include="Resources\RaTruong.png" />
+    <None Include="Resources\Print.png" />
+    <None Include="Resources\NhapTruong.png" />
+    <None Include="Resources\Import.png" />
+    <None Include="Resources\HosoSV.png" />
+    <None Include="Resources\Folder.png" />
+    <None Include="Resources\Excel.gif" />
+    <None Include="Resources\Edit.png" />
+    <None Include="Resources\ChuyenLop.png" />
+    <None Include="Resources\Close.png" />
+    <None Include="Resources\Cancel.png" />
+    <None Include="Resources\Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Bussines\Bussines.vbproj">
+      <Project>{6266F192-8BC9-4669-A4C2-672E5FD655B1}</Project>
+      <Name>Bussines</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ESSUtility\ESSUtility.vbproj">
+      <Project>{ADFDE9B8-B802-49EB-BA62-047302E9D660}</Project>
+      <Name>ESSUtility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Objects\Objects.vbproj">
+      <Project>{79402105-DDB3-4937-92EE-8570D77747D5}</Project>
+      <Name>Objects</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

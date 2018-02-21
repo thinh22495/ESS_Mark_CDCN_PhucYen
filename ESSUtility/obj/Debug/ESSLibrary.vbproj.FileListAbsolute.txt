@@ -1,0 +1,91 @@
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSLibrary\bin\Debug\ESS.Library.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSLibrary\bin\Debug\ESS.Library.pdb
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSLibrary\bin\Debug\ESS.xml
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSLibrary\bin\Debug\C1.Win.C1FlexGrid.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSLibrary\bin\Debug\Interop.Excel.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSLibrary\obj\Debug\ESS.Library.frmTrangThai.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSLibrary\obj\Debug\ESS.Library.Resources.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSLibrary\obj\Debug\ESSLibrary.vbproj.GenerateResource.Cache
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSLibrary\obj\Debug\ESS.Library.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSLibrary\obj\Debug\ESS.xml
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSLibrary\obj\Debug\ESS.Library.pdb
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSLibrary\obj\Debug\ESS.Library.frmESS_ProgressBar.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSLibrary\bin\Debug\ESS.Library.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSLibrary\bin\Debug\ESS.Library.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSLibrary\bin\Debug\ESS.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSLibrary\bin\Debug\C1.Win.C1FlexGrid.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSLibrary\bin\Debug\Interop.Excel.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSLibrary\obj\Debug\ESS.Library.frmESS_ProgressBar.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSLibrary\obj\Debug\ESS.Library.frmTrangThai.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSLibrary\obj\Debug\ESS.Library.Resources.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSLibrary\obj\Debug\ESSLibrary.vbproj.GenerateResource.Cache
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSLibrary\obj\Debug\ESS.Library.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSLibrary\obj\Debug\ESS.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSLibrary\obj\Debug\ESS.Library.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSLibrary\bin\Debug\ESS.Library.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSLibrary\bin\Debug\ESS.Library.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSLibrary\bin\Debug\ESS.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSLibrary\bin\Debug\C1.Win.C1FlexGrid.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSLibrary\bin\Debug\Interop.Excel.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSLibrary\obj\Debug\ESS.Library.frmESS_ProgressBar.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSLibrary\obj\Debug\ESS.Library.frmTrangThai.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSLibrary\obj\Debug\ESS.Library.Resources.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSLibrary\obj\Debug\ESSLibrary.vbproj.GenerateResource.Cache
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSLibrary\obj\Debug\ESS.Library.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSLibrary\obj\Debug\ESS.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSLibrary\obj\Debug\ESS.Library.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSLibrary\bin\Debug\ESS.Library.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSLibrary\bin\Debug\ESS.Library.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSLibrary\bin\Debug\ESS.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSLibrary\bin\Debug\C1.Win.C1FlexGrid.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSLibrary\bin\Debug\Interop.Excel.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSLibrary\obj\Debug\ESS.Library.frmESS_ProgressBar.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSLibrary\obj\Debug\ESS.Library.frmTrangThai.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSLibrary\obj\Debug\ESS.Library.Resources.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSLibrary\obj\Debug\ESSLibrary.vbproj.GenerateResource.Cache
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSLibrary\obj\Debug\ESS.Library.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSLibrary\obj\Debug\ESS.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSLibrary\obj\Debug\ESS.Library.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSLibrary\bin\Debug\ESS.Library.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSLibrary\bin\Debug\ESS.Library.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSLibrary\bin\Debug\ESS.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSLibrary\bin\Debug\C1.Win.C1FlexGrid.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSLibrary\bin\Debug\Interop.Excel.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSLibrary\obj\Debug\ESS.Library.frmESS_ProgressBar.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSLibrary\obj\Debug\ESS.Library.frmTrangThai.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSLibrary\obj\Debug\ESS.Library.Resources.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSLibrary\obj\Debug\ESSLibrary.vbproj.GenerateResource.Cache
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSLibrary\obj\Debug\ESS.Library.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSLibrary\obj\Debug\ESS.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSLibrary\obj\Debug\ESS.Library.pdb
+E:\Project\Company\Working\ESS_TC\ESSLibrary\bin\Debug\ESS.Library.dll
+E:\Project\Company\Working\ESS_TC\ESSLibrary\bin\Debug\ESS.Library.pdb
+E:\Project\Company\Working\ESS_TC\ESSLibrary\bin\Debug\ESS.xml
+E:\Project\Company\Working\ESS_TC\ESSLibrary\bin\Debug\C1.Win.C1FlexGrid.dll
+E:\Project\Company\Working\ESS_TC\ESSLibrary\bin\Debug\Interop.Excel.dll
+E:\Project\Company\Working\ESS_TC\ESSLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\ESS_TC\ESSLibrary\obj\Debug\ESS.Library.frmESS_ProgressBar.resources
+E:\Project\Company\Working\ESS_TC\ESSLibrary\obj\Debug\ESS.Library.frmTrangThai.resources
+E:\Project\Company\Working\ESS_TC\ESSLibrary\obj\Debug\ESS.Library.Resources.resources
+E:\Project\Company\Working\ESS_TC\ESSLibrary\obj\Debug\ESSLibrary.vbproj.GenerateResource.Cache
+E:\Project\Company\Working\ESS_TC\ESSLibrary\obj\Debug\ESS.Library.dll
+E:\Project\Company\Working\ESS_TC\ESSLibrary\obj\Debug\ESS.xml
+E:\Project\Company\Working\ESS_TC\ESSLibrary\obj\Debug\ESS.Library.pdb
+E:\Project\Company\Working\EDU\ESS_TC\ESSLibrary\bin\Debug\ESS.Library.dll
+E:\Project\Company\Working\EDU\ESS_TC\ESSLibrary\bin\Debug\ESS.Library.pdb
+E:\Project\Company\Working\EDU\ESS_TC\ESSLibrary\bin\Debug\ESS.xml
+E:\Project\Company\Working\EDU\ESS_TC\ESSLibrary\bin\Debug\C1.Win.C1FlexGrid.dll
+E:\Project\Company\Working\EDU\ESS_TC\ESSLibrary\bin\Debug\Interop.Excel.dll
+E:\Project\Company\Working\EDU\ESS_TC\ESSLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\EDU\ESS_TC\ESSLibrary\obj\Debug\ESS.Library.frmESS_ProgressBar.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSLibrary\obj\Debug\ESS.Library.frmTrangThai.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSLibrary\obj\Debug\ESS.Library.Resources.resources
+E:\Project\Company\Working\EDU\ESS_TC\ESSLibrary\obj\Debug\ESSLibrary.vbproj.GenerateResource.Cache
+E:\Project\Company\Working\EDU\ESS_TC\ESSLibrary\obj\Debug\ESS.Library.dll
+E:\Project\Company\Working\EDU\ESS_TC\ESSLibrary\obj\Debug\ESS.xml
+E:\Project\Company\Working\EDU\ESS_TC\ESSLibrary\obj\Debug\ESS.Library.pdb

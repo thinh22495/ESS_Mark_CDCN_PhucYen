@@ -1,0 +1,444 @@
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\ESSAccount.exe.config
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\ESSAccount.exe
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\ESSAccount.pdb
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\C1.C1PrintDocument.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\C1.Common.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\C1.PrintUtil.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\C1.Win.C1FlexGrid.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\C1.Win.C1PrintPreview.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\C1.Win.C1Report.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\ESS.BLL.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\ESS.Catalogue.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\ESS.Entity.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\ESS.Library.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\HttpDownload.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\Interop.Excel.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\Janus.Windows.Common.v2.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\janus.windows.ui.v2.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\ESS.DAL.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\ESS.Machine.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\Interop.VBIDE.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\Interop.Office.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\ESS.Library.pdb
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\ESS.Catalogue.pdb
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\ESS.DAL.pdb
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\ESS.Machine.pdb
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\ESS.BLL.pdb
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\ESS.Entity.pdb
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocPhiHocKySua.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocPhiHocKyXem.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuThiLaiXem.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiChiHocPhiHocPhanSua.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiChiHocPhiHocPhanXem.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_LapDamhSachMienGiamHocPhiSaoChep.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_ThongTinTaiChinhSinhVien.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocPhiHocPhanXem.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuThiLai.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuThiLaiList.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiChiHocPhiHocPhan.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocPhiHocPhan.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_ChangePassword.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_DanhSachSinhVienNgoaiNganSach.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_DoiTuongGiayTo.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_DoiTuongHocBong.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_DSHocBongHocPhi.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_TieuDeBaoCao.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_TongHopHocBong.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_XepLoaiHocBong.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_LoaiQuyHocBong.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_LoaiThuChi.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_TongHopThuKhacXemChiTiet.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_TongHopThuKhac.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_LapDanhSachTroCapHocBong.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocKyList.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocPhiHocKy.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuList.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_LapDanhSachMienGiamHocPhi.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_LapDanhSachThuKhac.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_Login.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_Main.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_MsgBox.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_PhanBoQuyHocBong.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_PhanBoQuyHocBongChiTiet.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_PhanBoQuyHocBongThuCong.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_PhanLoaiHocBongTheoDoiTuong.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_QuyHocBong.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_QuyHocBongList.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_ReportView.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_SearchSinhVien.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_ServerChange.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_TongHopThuHocPhi.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_TongHopThuHocPhiXemChiTiet.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_XetHocBong.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_XethocbongQDmontheokyxet.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.Resources.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.ToolBar.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.TreeViewChuyenNganh.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.TreeViewLop.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.TreeViewLopTinChi.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.TreeViewPhongThi.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.TreeViewPhongThiTinChi.resources
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.vbproj.GenerateResource.Cache
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.exe
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\ESSAccount.exe.config
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\ESSAccount.exe
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\ESSAccount.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\ESS.BLL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\ESS.Catalogue.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\ESS.Entity.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\ESS.Library.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\ESS.DAL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\ESS.Machine.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\ESS.Library.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\ESS.Catalogue.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\ESS.DAL.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\ESS.Machine.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\ESS.BLL.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\bin\ESS.Entity.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocPhiHocKySua.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocPhiHocKyXem.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuThiLaiXem.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiChiHocPhiHocPhanSua.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiChiHocPhiHocPhanXem.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_LapDamhSachMienGiamHocPhiSaoChep.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_ThongTinTaiChinhSinhVien.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocPhiHocPhanXem.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuThiLai.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuThiLaiList.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiChiHocPhiHocPhan.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocPhiHocPhan.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_ChangePassword.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_DanhSachSinhVienNgoaiNganSach.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_DoiTuongGiayTo.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_DoiTuongHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_DSHocBongHocPhi.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_TieuDeBaoCao.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_TongHopHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_XepLoaiHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_LoaiQuyHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_LoaiThuChi.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_TongHopThuKhacXemChiTiet.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_TongHopThuKhac.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_LapDanhSachTroCapHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocKyList.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocPhiHocKy.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuList.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_LapDanhSachMienGiamHocPhi.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_LapDanhSachThuKhac.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_Login.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_Main.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_MsgBox.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_PhanBoQuyHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_PhanBoQuyHocBongChiTiet.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_PhanBoQuyHocBongThuCong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_PhanLoaiHocBongTheoDoiTuong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_QuyHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_QuyHocBongList.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_ReportView.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_SearchSinhVien.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_ServerChange.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_TongHopThuHocPhi.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_TongHopThuHocPhiXemChiTiet.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_XetHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.frmESS_XethocbongQDmontheokyxet.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.Resources.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.ToolBar.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.TreeViewChuyenNganh.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.TreeViewLop.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.TreeViewLopTinChi.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.TreeViewPhongThi.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.TreeViewPhongThiTinChi.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.vbproj.GenerateResource.Cache
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.exe
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\ESSAccount\obj\Debug\ESSAccount.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\bin\ESSAccount.exe.config
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\bin\ESSAccount.exe
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\bin\ESSAccount.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\bin\ESS.BLL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\bin\ESS.Catalogue.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\bin\ESS.Entity.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\bin\ESS.Library.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\bin\ESS.DAL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\bin\ESS.Machine.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\bin\ESS.Library.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\bin\ESS.Catalogue.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\bin\ESS.DAL.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\bin\ESS.Machine.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\bin\ESS.BLL.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\bin\ESS.Entity.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocPhiHocKySua.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocPhiHocKyXem.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuThiLaiXem.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiChiHocPhiHocPhanSua.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiChiHocPhiHocPhanXem.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_LapDamhSachMienGiamHocPhiSaoChep.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_ThongTinTaiChinhSinhVien.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocPhiHocPhanXem.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuThiLai.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuThiLaiList.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiChiHocPhiHocPhan.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocPhiHocPhan.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_ChangePassword.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_DanhSachSinhVienNgoaiNganSach.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_DoiTuongGiayTo.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_DoiTuongHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_DSHocBongHocPhi.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_TieuDeBaoCao.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_TongHopHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_XepLoaiHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_LoaiQuyHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_LoaiThuChi.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_TongHopThuKhacXemChiTiet.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_TongHopThuKhac.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_LapDanhSachTroCapHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocKyList.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocPhiHocKy.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuList.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_LapDanhSachMienGiamHocPhi.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_LapDanhSachThuKhac.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_Login.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_Main.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_MsgBox.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_PhanBoQuyHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_PhanBoQuyHocBongChiTiet.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_PhanBoQuyHocBongThuCong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_PhanLoaiHocBongTheoDoiTuong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_QuyHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_QuyHocBongList.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_ReportView.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_SearchSinhVien.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_ServerChange.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_TongHopThuHocPhi.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_TongHopThuHocPhiXemChiTiet.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_XetHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.frmESS_XethocbongQDmontheokyxet.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.Resources.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.ToolBar.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.TreeViewChuyenNganh.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.TreeViewLop.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.TreeViewLopTinChi.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.TreeViewPhongThi.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.TreeViewPhongThiTinChi.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.vbproj.GenerateResource.Cache
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.exe
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\ESSAccount\obj\Debug\ESSAccount.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\bin\ESSAccount.exe.config
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\bin\ESSAccount.exe
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\bin\ESSAccount.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\bin\ESS.BLL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\bin\ESS.Catalogue.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\bin\ESS.Entity.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\bin\ESS.Library.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\bin\ESS.DAL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\bin\ESS.Machine.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\bin\ESS.Library.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\bin\ESS.Catalogue.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\bin\ESS.DAL.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\bin\ESS.Machine.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\bin\ESS.BLL.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\bin\ESS.Entity.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocPhiHocKySua.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocPhiHocKyXem.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuThiLaiXem.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiChiHocPhiHocPhanSua.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiChiHocPhiHocPhanXem.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_LapDamhSachMienGiamHocPhiSaoChep.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_ThongTinTaiChinhSinhVien.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocPhiHocPhanXem.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuThiLai.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuThiLaiList.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiChiHocPhiHocPhan.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocPhiHocPhan.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_ChangePassword.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_DanhSachSinhVienNgoaiNganSach.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_DoiTuongGiayTo.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_DoiTuongHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_DSHocBongHocPhi.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_TieuDeBaoCao.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_TongHopHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_XepLoaiHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_LoaiQuyHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_LoaiThuChi.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_TongHopThuKhacXemChiTiet.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_TongHopThuKhac.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_LapDanhSachTroCapHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocKyList.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocPhiHocKy.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuList.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_LapDanhSachMienGiamHocPhi.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_LapDanhSachThuKhac.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_Login.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_Main.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_MsgBox.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_PhanBoQuyHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_PhanBoQuyHocBongChiTiet.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_PhanBoQuyHocBongThuCong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_PhanLoaiHocBongTheoDoiTuong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_QuyHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_QuyHocBongList.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_ReportView.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_SearchSinhVien.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_ServerChange.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_TongHopThuHocPhi.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_TongHopThuHocPhiXemChiTiet.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_XetHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.frmESS_XethocbongQDmontheokyxet.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.Resources.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.ToolBar.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.TreeViewChuyenNganh.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.TreeViewLop.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.TreeViewLopTinChi.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.TreeViewPhongThi.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.TreeViewPhongThiTinChi.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.vbproj.GenerateResource.Cache
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.exe
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\ESSAccount\obj\Debug\ESSAccount.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\bin\ESSAccount.exe.config
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\bin\ESSAccount.exe
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\bin\ESSAccount.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\bin\ESS.BLL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\bin\ESS.Catalogue.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\bin\ESS.Entity.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\bin\ESS.Library.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\bin\ESS.DAL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\bin\ESS.Machine.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\bin\ESS.Library.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\bin\ESS.Catalogue.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\bin\ESS.DAL.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\bin\ESS.Machine.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\bin\ESS.BLL.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\bin\ESS.Entity.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocPhiHocKySua.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocPhiHocKyXem.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuThiLaiXem.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiChiHocPhiHocPhanSua.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiChiHocPhiHocPhanXem.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_LapDamhSachMienGiamHocPhiSaoChep.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_ThongTinTaiChinhSinhVien.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocPhiHocPhanXem.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuThiLai.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuThiLaiList.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiChiHocPhiHocPhan.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocPhiHocPhan.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_ChangePassword.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_DanhSachSinhVienNgoaiNganSach.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_DoiTuongGiayTo.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_DoiTuongHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_DSHocBongHocPhi.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_TieuDeBaoCao.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_TongHopHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_XepLoaiHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_LoaiQuyHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_LoaiThuChi.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_TongHopThuKhacXemChiTiet.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_TongHopThuKhac.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_LapDanhSachTroCapHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocKyList.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocPhiHocKy.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuList.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_LapDanhSachMienGiamHocPhi.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_LapDanhSachThuKhac.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_Login.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_Main.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_MsgBox.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_PhanBoQuyHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_PhanBoQuyHocBongChiTiet.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_PhanBoQuyHocBongThuCong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_PhanLoaiHocBongTheoDoiTuong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_QuyHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_QuyHocBongList.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_ReportView.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_SearchSinhVien.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_ServerChange.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_TongHopThuHocPhi.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_TongHopThuHocPhiXemChiTiet.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_XetHocBong.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_XethocbongQDmontheokyxet.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.Resources.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.ToolBar.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.TreeViewChuyenNganh.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.TreeViewLop.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.TreeViewLopTinChi.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.TreeViewPhongThi.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.TreeViewPhongThiTinChi.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.vbproj.GenerateResource.Cache
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.exe
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\ESSAccount\obj\Debug\ESSAccount.pdb
+E:\Project\Company\Working\ESS_TC\ESSAccount\bin\ESSAccount.exe.config
+E:\Project\Company\Working\ESS_TC\ESSAccount\bin\ESSAccount.exe
+E:\Project\Company\Working\ESS_TC\ESSAccount\bin\ESSAccount.pdb
+E:\Project\Company\Working\ESS_TC\ESSAccount\bin\ESS.BLL.dll
+E:\Project\Company\Working\ESS_TC\ESSAccount\bin\ESS.Catalogue.dll
+E:\Project\Company\Working\ESS_TC\ESSAccount\bin\ESS.Entity.dll
+E:\Project\Company\Working\ESS_TC\ESSAccount\bin\ESS.Library.dll
+E:\Project\Company\Working\ESS_TC\ESSAccount\bin\ESS.DAL.dll
+E:\Project\Company\Working\ESS_TC\ESSAccount\bin\ESS.Machine.dll
+E:\Project\Company\Working\ESS_TC\ESSAccount\bin\ESS.Library.pdb
+E:\Project\Company\Working\ESS_TC\ESSAccount\bin\ESS.Catalogue.pdb
+E:\Project\Company\Working\ESS_TC\ESSAccount\bin\ESS.DAL.pdb
+E:\Project\Company\Working\ESS_TC\ESSAccount\bin\ESS.Machine.pdb
+E:\Project\Company\Working\ESS_TC\ESSAccount\bin\ESS.BLL.pdb
+E:\Project\Company\Working\ESS_TC\ESSAccount\bin\ESS.Entity.pdb
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocPhiHocKySua.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocPhiHocKyXem.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuThiLaiXem.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiChiHocPhiHocPhanSua.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiChiHocPhiHocPhanXem.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_LapDamhSachMienGiamHocPhiSaoChep.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_ThongTinTaiChinhSinhVien.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocPhiHocPhanXem.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuThiLai.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuThiLaiList.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiChiHocPhiHocPhan.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocPhiHocPhan.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_ChangePassword.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_DanhSachSinhVienNgoaiNganSach.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_DoiTuongGiayTo.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_DoiTuongHocBong.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_DSHocBongHocPhi.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_TieuDeBaoCao.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_TongHopHocBong.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_XepLoaiHocBong.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_LoaiQuyHocBong.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_LoaiThuChi.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_TongHopThuKhacXemChiTiet.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_TongHopThuKhac.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_LapDanhSachTroCapHocBong.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocKyList.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuHocPhiHocKy.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_BienLaiThuList.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_LapDanhSachMienGiamHocPhi.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_LapDanhSachThuKhac.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_Login.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_Main.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_MsgBox.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_PhanBoQuyHocBong.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_PhanBoQuyHocBongChiTiet.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_PhanBoQuyHocBongThuCong.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_PhanLoaiHocBongTheoDoiTuong.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_QuyHocBong.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_QuyHocBongList.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_ReportView.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_SearchSinhVien.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_ServerChange.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_TongHopThuHocPhi.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_TongHopThuHocPhiXemChiTiet.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_XetHocBong.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.frmESS_XethocbongQDmontheokyxet.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.Resources.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.ToolBar.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.TreeViewChuyenNganh.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.TreeViewLop.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.TreeViewLopTinChi.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.TreeViewPhongThi.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.TreeViewPhongThiTinChi.resources
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.vbproj.GenerateResource.Cache
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.exe
+E:\Project\Company\Working\ESS_TC\ESSAccount\obj\Debug\ESSAccount.pdb

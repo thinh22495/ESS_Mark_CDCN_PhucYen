@@ -1,0 +1,400 @@
+E:\Project\Company\Working\EDU\ESS_TC\DAL\bin\ESS.DataAccess.dll.config
+E:\Project\Company\Working\EDU\ESS_TC\DAL\bin\ESS.DataAccess.dll
+E:\Project\Company\Working\EDU\ESS_TC\DAL\bin\ESS.DataAccess.pdb
+E:\Project\Company\Working\EDU\ESS_TC\DAL\bin\ESS.DataAccess.xml
+E:\Project\Company\Working\EDU\ESS_TC\DAL\bin\ESSConnect.dll
+E:\Project\Company\Working\EDU\ESS_TC\DAL\bin\ESSConnect.pdb
+E:\Project\Company\Working\EDU\ESS_TC\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\EDU\ESS_TC\DAL\obj\Debug\ESS.DataAccess.dll
+E:\Project\Company\Working\EDU\ESS_TC\DAL\obj\Debug\ESS.DataAccess.xml
+E:\Project\Company\Working\EDU\ESS_TC\DAL\obj\Debug\ESS.DataAccess.pdb
+E:\Project\Company\Working\EDU\ESS_TC\DataAccess\bin\ESS.DataAccess.dll.config
+E:\Project\Company\Working\EDU\ESS_TC\DataAccess\bin\ESS.DataAccess.dll
+E:\Project\Company\Working\EDU\ESS_TC\DataAccess\bin\ESS.DataAccess.pdb
+E:\Project\Company\Working\EDU\ESS_TC\DataAccess\bin\ESS.DataAccess.xml
+E:\Project\Company\Working\EDU\ESS_TC\DataAccess\bin\ESS.Objects.dll
+E:\Project\Company\Working\EDU\ESS_TC\DataAccess\bin\ESSConnect.dll
+E:\Project\Company\Working\EDU\ESS_TC\DataAccess\bin\ESS.Objects.pdb
+E:\Project\Company\Working\EDU\ESS_TC\DataAccess\bin\ESS.Objects.xml
+E:\Project\Company\Working\EDU\ESS_TC\DataAccess\bin\ESSConnect.pdb
+E:\Project\Company\Working\EDU\ESS_TC\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\EDU\ESS_TC\DataAccess\obj\Debug\ESS.DataAccess.dll
+E:\Project\Company\Working\EDU\ESS_TC\DataAccess\obj\Debug\ESS.DataAccess.xml
+E:\Project\Company\Working\EDU\ESS_TC\DataAccess\obj\Debug\ESS.DataAccess.pdb
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\DataAccess\bin\ESS.DataAccess.dll.config
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\DataAccess\bin\ESS.DataAccess.dll
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\DataAccess\bin\ESS.DataAccess.pdb
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\DataAccess\bin\ESS.DataAccess.xml
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\DataAccess\bin\ESS.Objects.dll
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\DataAccess\bin\ESSConnect.dll
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\DataAccess\bin\ESS.Objects.pdb
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\DataAccess\bin\ESS.Objects.xml
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\DataAccess\bin\ESSConnect.pdb
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\DataAccess\obj\Debug\ESS.DataAccess.dll
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\DataAccess\obj\Debug\ESS.DataAccess.xml
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\DataAccess\obj\Debug\ESS.DataAccess.pdb
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\DataAccess\bin\ESS.DataAccess.dll.config
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\DataAccess\bin\ESS.DataAccess.dll
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\DataAccess\bin\ESS.DataAccess.pdb
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\DataAccess\bin\ESS.DataAccess.xml
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\DataAccess\bin\ESS.Objects.dll
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\DataAccess\bin\ESSConnect.dll
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\DataAccess\bin\ESS.Objects.pdb
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\DataAccess\bin\ESS.Objects.xml
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\DataAccess\bin\ESSConnect.pdb
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\DataAccess\obj\Debug\ESS.DataAccess.dll
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\DataAccess\obj\Debug\ESS.DataAccess.xml
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\DataAccess\obj\Debug\ESS.DataAccess.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\DataAccess\bin\ESS.DataAccess.dll.config
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\DataAccess\bin\ESS.DataAccess.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\DataAccess\bin\ESS.DataAccess.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\DataAccess\bin\ESS.DataAccess.xml
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\DataAccess\bin\ESS.Objects.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\DataAccess\bin\ESSConnect.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\DataAccess\bin\ESS.Objects.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\DataAccess\bin\ESS.Objects.xml
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\DataAccess\bin\ESSConnect.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\DataAccess\obj\Debug\ESS.DataAccess.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\DataAccess\obj\Debug\ESS.DataAccess.xml
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\DataAccess\obj\Debug\ESS.DataAccess.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\DataAccess\bin\ESS.DataAccess.dll.config
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\DataAccess\bin\ESS.DataAccess.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\DataAccess\bin\ESS.DataAccess.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\DataAccess\bin\ESS.DataAccess.xml
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\DataAccess\bin\ESS.Objects.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\DataAccess\bin\ESSConnect.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\DataAccess\bin\ESS.Objects.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\DataAccess\bin\ESS.Objects.xml
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\DataAccess\bin\ESSConnect.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\DataAccess\obj\Debug\ESS.DataAccess.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\DataAccess\obj\Debug\ESS.DataAccess.xml
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\DataAccess\obj\Debug\ESS.DataAccess.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\DataAccess\bin\ESS.DataAccess.dll.config
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\DataAccess\bin\ESS.DataAccess.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\DataAccess\bin\ESS.DataAccess.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\DataAccess\bin\ESS.DataAccess.xml
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\DataAccess\bin\ESS.Objects.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\DataAccess\bin\ESSConnect.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\DataAccess\bin\ESS.Objects.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\DataAccess\bin\ESS.Objects.xml
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\DataAccess\bin\ESSConnect.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\DataAccess\obj\Debug\ESS.DataAccess.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\DataAccess\obj\Debug\ESS.DataAccess.xml
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\DataAccess\obj\Debug\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\DataAccess\bin\ESS.DataAccess.dll.config
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\DataAccess\bin\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\DataAccess\bin\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\DataAccess\bin\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\DataAccess\bin\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\DataAccess\bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\DataAccess\bin\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\DataAccess\bin\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\DataAccess\bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\DataAccess\obj\Debug\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\DataAccess\obj\Debug\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\DataAccess\obj\Debug\ESS.DataAccess.pdb
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\DataAccess\bin\ESS.DataAccess.dll.config
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\DataAccess\bin\ESS.DataAccess.dll
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\DataAccess\bin\ESS.DataAccess.pdb
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\DataAccess\bin\ESS.DataAccess.xml
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\DataAccess\bin\ESS.Objects.dll
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\DataAccess\bin\ESSConnect.dll
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\DataAccess\bin\ESS.Objects.pdb
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\DataAccess\bin\ESS.Objects.xml
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\DataAccess\bin\ESSConnect.pdb
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\DataAccess\obj\Debug\ESS.DataAccess.dll
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\DataAccess\obj\Debug\ESS.DataAccess.xml
+D:\My Work\ThienAn\CaoDangCNPhucYen\Chuong trinh\ESS_TC_CDCN_PhucYen\ESS_TC_CDCN_PhucYen\DataAccess\obj\Debug\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\DataAccess\bin\ESS.DataAccess.dll.config
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\DataAccess\bin\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\DataAccess\bin\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\DataAccess\bin\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\DataAccess\bin\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\DataAccess\bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\DataAccess\bin\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\DataAccess\bin\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\DataAccess\bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\DataAccess\obj\Debug\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\DataAccess\obj\Debug\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\DataAccess\obj\Debug\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen1\DataAccess\bin\ESS.DataAccess.dll.config
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen1\DataAccess\bin\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen1\DataAccess\bin\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen1\DataAccess\bin\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen1\DataAccess\bin\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen1\DataAccess\bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen1\DataAccess\bin\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen1\DataAccess\bin\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen1\DataAccess\bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen1\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen1\DataAccess\obj\Debug\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen1\DataAccess\obj\Debug\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen1\DataAccess\obj\Debug\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen11\DataAccess\bin\ESS.DataAccess.dll.config
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen11\DataAccess\bin\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen11\DataAccess\bin\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen11\DataAccess\bin\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen11\DataAccess\bin\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen11\DataAccess\bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen11\DataAccess\bin\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen11\DataAccess\bin\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen11\DataAccess\bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen11\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen11\DataAccess\obj\Debug\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen11\DataAccess\obj\Debug\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen11\DataAccess\obj\Debug\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main\DataAccess\bin\ESS.DataAccess.dll.config
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main\DataAccess\bin\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main\DataAccess\bin\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main\DataAccess\bin\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main\DataAccess\bin\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main\DataAccess\bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main\DataAccess\bin\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main\DataAccess\bin\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main\DataAccess\bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main\DataAccess\obj\Debug\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main\DataAccess\obj\Debug\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main\DataAccess\obj\Debug\ESS.DataAccess.pdb
+D:\My Work\ThienAn\CaoDangCNPhucYen\ESS_TC_CDCN_PhucYen_Main\DataAccess\bin\ESS.DataAccess.dll.config
+D:\My Work\ThienAn\CaoDangCNPhucYen\ESS_TC_CDCN_PhucYen_Main\DataAccess\bin\ESS.DataAccess.dll
+D:\My Work\ThienAn\CaoDangCNPhucYen\ESS_TC_CDCN_PhucYen_Main\DataAccess\bin\ESS.DataAccess.pdb
+D:\My Work\ThienAn\CaoDangCNPhucYen\ESS_TC_CDCN_PhucYen_Main\DataAccess\bin\ESS.DataAccess.xml
+D:\My Work\ThienAn\CaoDangCNPhucYen\ESS_TC_CDCN_PhucYen_Main\DataAccess\bin\ESS.Objects.dll
+D:\My Work\ThienAn\CaoDangCNPhucYen\ESS_TC_CDCN_PhucYen_Main\DataAccess\bin\ESSConnect.dll
+D:\My Work\ThienAn\CaoDangCNPhucYen\ESS_TC_CDCN_PhucYen_Main\DataAccess\bin\ESS.Objects.pdb
+D:\My Work\ThienAn\CaoDangCNPhucYen\ESS_TC_CDCN_PhucYen_Main\DataAccess\bin\ESS.Objects.xml
+D:\My Work\ThienAn\CaoDangCNPhucYen\ESS_TC_CDCN_PhucYen_Main\DataAccess\bin\ESSConnect.pdb
+D:\My Work\ThienAn\CaoDangCNPhucYen\ESS_TC_CDCN_PhucYen_Main\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\CaoDangCNPhucYen\ESS_TC_CDCN_PhucYen_Main\DataAccess\obj\Debug\ESS.DataAccess.dll
+D:\My Work\ThienAn\CaoDangCNPhucYen\ESS_TC_CDCN_PhucYen_Main\DataAccess\obj\Debug\ESS.DataAccess.xml
+D:\My Work\ThienAn\CaoDangCNPhucYen\ESS_TC_CDCN_PhucYen_Main\DataAccess\obj\Debug\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26072012\ESS_TC_CDCN_PhucYen_Main\DataAccess\bin\ESS.DataAccess.dll.config
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26072012\ESS_TC_CDCN_PhucYen_Main\DataAccess\bin\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26072012\ESS_TC_CDCN_PhucYen_Main\DataAccess\bin\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26072012\ESS_TC_CDCN_PhucYen_Main\DataAccess\bin\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26072012\ESS_TC_CDCN_PhucYen_Main\DataAccess\bin\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26072012\ESS_TC_CDCN_PhucYen_Main\DataAccess\bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26072012\ESS_TC_CDCN_PhucYen_Main\DataAccess\bin\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26072012\ESS_TC_CDCN_PhucYen_Main\DataAccess\bin\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26072012\ESS_TC_CDCN_PhucYen_Main\DataAccess\bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26072012\ESS_TC_CDCN_PhucYen_Main\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26072012\ESS_TC_CDCN_PhucYen_Main\DataAccess\obj\Debug\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26072012\ESS_TC_CDCN_PhucYen_Main\DataAccess\obj\Debug\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26072012\ESS_TC_CDCN_PhucYen_Main\DataAccess\obj\Debug\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\bin\ESS.DataAccess.dll.config
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\bin\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\bin\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\bin\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\bin\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\bin\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\bin\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\obj\Debug\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\obj\Debug\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\obj\Debug\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\BackUp\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\bin\ESS.DataAccess.dll.config
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\BackUp\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\bin\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\BackUp\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\bin\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\BackUp\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\bin\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\BackUp\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\bin\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\BackUp\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\BackUp\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\bin\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\BackUp\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\bin\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\BackUp\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\BackUp\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\BackUp\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\obj\Debug\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\BackUp\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\obj\Debug\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\BackUp\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\obj\Debug\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\Cao Dang Nghe\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\bin\ESS.DataAccess.dll.config
+D:\My_CongTy\DuAn_ThienAn\Cao Dang Nghe\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\bin\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\Cao Dang Nghe\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\bin\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\Cao Dang Nghe\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\bin\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\Cao Dang Nghe\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\bin\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\Cao Dang Nghe\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\Cao Dang Nghe\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\bin\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\Cao Dang Nghe\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\bin\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\Cao Dang Nghe\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\Cao Dang Nghe\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\Cao Dang Nghe\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\obj\Debug\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\Cao Dang Nghe\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\obj\Debug\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\Cao Dang Nghe\ESS_TC_CDCN_PhucYen_Main_05082012\DataAccess\obj\Debug\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_CDCN_PhucYen_Main_23102012\DataAccess\bin\ESS.DataAccess.dll.config
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_CDCN_PhucYen_Main_23102012\DataAccess\bin\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_CDCN_PhucYen_Main_23102012\DataAccess\bin\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_CDCN_PhucYen_Main_23102012\DataAccess\bin\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_CDCN_PhucYen_Main_23102012\DataAccess\bin\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_CDCN_PhucYen_Main_23102012\DataAccess\bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_CDCN_PhucYen_Main_23102012\DataAccess\bin\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_CDCN_PhucYen_Main_23102012\DataAccess\bin\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_CDCN_PhucYen_Main_23102012\DataAccess\bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_CDCN_PhucYen_Main_23102012\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_CDCN_PhucYen_Main_23102012\DataAccess\obj\Debug\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_CDCN_PhucYen_Main_23102012\DataAccess\obj\Debug\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_CDCN_PhucYen_Main_23102012\DataAccess\obj\Debug\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_Mark_PhucYen_Main_06032013\ESS_TC_CDCN_PhucYen_Main_23102012\DataAccess\bin\ESS.DataAccess.dll.config
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_Mark_PhucYen_Main_06032013\ESS_TC_CDCN_PhucYen_Main_23102012\DataAccess\bin\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_Mark_PhucYen_Main_06032013\ESS_TC_CDCN_PhucYen_Main_23102012\DataAccess\bin\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_Mark_PhucYen_Main_06032013\ESS_TC_CDCN_PhucYen_Main_23102012\DataAccess\bin\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_Mark_PhucYen_Main_06032013\ESS_TC_CDCN_PhucYen_Main_23102012\DataAccess\bin\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_Mark_PhucYen_Main_06032013\ESS_TC_CDCN_PhucYen_Main_23102012\DataAccess\bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_Mark_PhucYen_Main_06032013\ESS_TC_CDCN_PhucYen_Main_23102012\DataAccess\bin\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_Mark_PhucYen_Main_06032013\ESS_TC_CDCN_PhucYen_Main_23102012\DataAccess\bin\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_Mark_PhucYen_Main_06032013\ESS_TC_CDCN_PhucYen_Main_23102012\DataAccess\bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_Mark_PhucYen_Main_06032013\ESS_TC_CDCN_PhucYen_Main_23102012\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_Mark_PhucYen_Main_06032013\ESS_TC_CDCN_PhucYen_Main_23102012\DataAccess\obj\Debug\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_Mark_PhucYen_Main_06032013\ESS_TC_CDCN_PhucYen_Main_23102012\DataAccess\obj\Debug\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_Mark_PhucYen_Main_06032013\ESS_TC_CDCN_PhucYen_Main_23102012\DataAccess\obj\Debug\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_07042013\DataAccess\bin\ESS.DataAccess.dll.config
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_07042013\DataAccess\bin\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_07042013\DataAccess\bin\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_07042013\DataAccess\bin\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_07042013\DataAccess\bin\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_07042013\DataAccess\bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_07042013\DataAccess\bin\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_07042013\DataAccess\bin\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_07042013\DataAccess\bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_07042013\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_07042013\DataAccess\obj\Debug\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_07042013\DataAccess\obj\Debug\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_07042013\DataAccess\obj\Debug\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_10052013\DataAccess\bin\ESS.DataAccess.dll.config
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_10052013\DataAccess\bin\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_10052013\DataAccess\bin\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_10052013\DataAccess\bin\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_10052013\DataAccess\bin\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_10052013\DataAccess\bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_10052013\DataAccess\bin\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_10052013\DataAccess\bin\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_10052013\DataAccess\bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_10052013\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_10052013\DataAccess\obj\Debug\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_10052013\DataAccess\obj\Debug\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_10052013\DataAccess\obj\Debug\ESS.DataAccess.pdb
+D:\Working\NamVietJSC\CD CN Phuc Yen\ESS_TC_CDCN_PhucYen_Main_03062013\DataAccess\bin\ESS.DataAccess.dll.config
+D:\Working\NamVietJSC\CD CN Phuc Yen\ESS_TC_CDCN_PhucYen_Main_03062013\DataAccess\bin\ESS.DataAccess.dll
+D:\Working\NamVietJSC\CD CN Phuc Yen\ESS_TC_CDCN_PhucYen_Main_03062013\DataAccess\bin\ESS.DataAccess.pdb
+D:\Working\NamVietJSC\CD CN Phuc Yen\ESS_TC_CDCN_PhucYen_Main_03062013\DataAccess\bin\ESS.DataAccess.xml
+D:\Working\NamVietJSC\CD CN Phuc Yen\ESS_TC_CDCN_PhucYen_Main_03062013\DataAccess\bin\ESS.Objects.dll
+D:\Working\NamVietJSC\CD CN Phuc Yen\ESS_TC_CDCN_PhucYen_Main_03062013\DataAccess\bin\ESSConnect.dll
+D:\Working\NamVietJSC\CD CN Phuc Yen\ESS_TC_CDCN_PhucYen_Main_03062013\DataAccess\bin\ESS.Objects.pdb
+D:\Working\NamVietJSC\CD CN Phuc Yen\ESS_TC_CDCN_PhucYen_Main_03062013\DataAccess\bin\ESS.Objects.xml
+D:\Working\NamVietJSC\CD CN Phuc Yen\ESS_TC_CDCN_PhucYen_Main_03062013\DataAccess\bin\ESSConnect.pdb
+D:\Working\NamVietJSC\CD CN Phuc Yen\ESS_TC_CDCN_PhucYen_Main_03062013\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\CD CN Phuc Yen\ESS_TC_CDCN_PhucYen_Main_03062013\DataAccess\obj\Debug\ESS.DataAccess.dll
+D:\Working\NamVietJSC\CD CN Phuc Yen\ESS_TC_CDCN_PhucYen_Main_03062013\DataAccess\obj\Debug\ESS.DataAccess.xml
+D:\Working\NamVietJSC\CD CN Phuc Yen\ESS_TC_CDCN_PhucYen_Main_03062013\DataAccess\obj\Debug\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_12062013\DataAccess\bin\ESS.DataAccess.dll.config
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_12062013\DataAccess\bin\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_12062013\DataAccess\bin\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_12062013\DataAccess\bin\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_12062013\DataAccess\bin\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_12062013\DataAccess\bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_12062013\DataAccess\bin\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_12062013\DataAccess\bin\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_12062013\DataAccess\bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_12062013\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_12062013\DataAccess\obj\Debug\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_12062013\DataAccess\obj\Debug\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_12062013\DataAccess\obj\Debug\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_12062013\DataAccess\bin\ESS.DataAccess.dll.config
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_12062013\DataAccess\bin\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_12062013\DataAccess\bin\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_12062013\DataAccess\bin\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_12062013\DataAccess\bin\ESS.Objects.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_12062013\DataAccess\bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_12062013\DataAccess\bin\ESS.Objects.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_12062013\DataAccess\bin\ESS.Objects.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_12062013\DataAccess\bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_12062013\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_12062013\DataAccess\obj\Debug\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_12062013\DataAccess\obj\Debug\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_12062013\DataAccess\obj\Debug\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_01102013\DataAccess\bin\ESS.DataAccess.dll.config
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_01102013\DataAccess\bin\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_01102013\DataAccess\bin\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_01102013\DataAccess\bin\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_01102013\DataAccess\bin\ESS.Objects.dll
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_01102013\DataAccess\bin\ESSConnect.dll
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_01102013\DataAccess\bin\ESS.Objects.pdb
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_01102013\DataAccess\bin\ESS.Objects.xml
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_01102013\DataAccess\bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_01102013\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_01102013\DataAccess\obj\Debug\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_01102013\DataAccess\obj\Debug\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_01102013\DataAccess\obj\Debug\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESS.DataAccess.dll.config
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESS.Objects.dll
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESSConnect.dll
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESS.Objects.pdb
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESS.Objects.xml
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\obj\Debug\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\obj\Debug\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\obj\Debug\ESS.DataAccess.pdb
+D:\Working\NamVietJSC\CD CN Phuc Yen\Diem tin chi 2014\CDCN_PY\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESS.DataAccess.dll.config
+D:\Working\NamVietJSC\CD CN Phuc Yen\Diem tin chi 2014\CDCN_PY\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESS.DataAccess.dll
+D:\Working\NamVietJSC\CD CN Phuc Yen\Diem tin chi 2014\CDCN_PY\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESS.DataAccess.pdb
+D:\Working\NamVietJSC\CD CN Phuc Yen\Diem tin chi 2014\CDCN_PY\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESS.DataAccess.xml
+D:\Working\NamVietJSC\CD CN Phuc Yen\Diem tin chi 2014\CDCN_PY\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESS.Objects.dll
+D:\Working\NamVietJSC\CD CN Phuc Yen\Diem tin chi 2014\CDCN_PY\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESSConnect.dll
+D:\Working\NamVietJSC\CD CN Phuc Yen\Diem tin chi 2014\CDCN_PY\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESS.Objects.pdb
+D:\Working\NamVietJSC\CD CN Phuc Yen\Diem tin chi 2014\CDCN_PY\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESS.Objects.xml
+D:\Working\NamVietJSC\CD CN Phuc Yen\Diem tin chi 2014\CDCN_PY\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESSConnect.pdb
+D:\Working\NamVietJSC\CD CN Phuc Yen\Diem tin chi 2014\CDCN_PY\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\CD CN Phuc Yen\Diem tin chi 2014\CDCN_PY\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\obj\Debug\ESS.DataAccess.dll
+D:\Working\NamVietJSC\CD CN Phuc Yen\Diem tin chi 2014\CDCN_PY\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\obj\Debug\ESS.DataAccess.xml
+D:\Working\NamVietJSC\CD CN Phuc Yen\Diem tin chi 2014\CDCN_PY\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\obj\Debug\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESS.DataAccess.dll.config
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESS.Objects.dll
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESSConnect.dll
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESS.Objects.pdb
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESS.Objects.xml
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\obj\Debug\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\obj\Debug\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\obj\Debug\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_NamViet_HCM\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESS.DataAccess.dll.config
+D:\My_CongTy\DuAn_NamViet_HCM\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_NamViet_HCM\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESS.DataAccess.pdb
+D:\My_CongTy\DuAn_NamViet_HCM\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_NamViet_HCM\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESS.Objects.dll
+D:\My_CongTy\DuAn_NamViet_HCM\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESSConnect.dll
+D:\My_CongTy\DuAn_NamViet_HCM\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESS.Objects.pdb
+D:\My_CongTy\DuAn_NamViet_HCM\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESS.Objects.xml
+D:\My_CongTy\DuAn_NamViet_HCM\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_NamViet_HCM\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_NamViet_HCM\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\obj\Debug\ESS.DataAccess.dll
+D:\My_CongTy\DuAn_NamViet_HCM\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\obj\Debug\ESS.DataAccess.xml
+D:\My_CongTy\DuAn_NamViet_HCM\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\DataAccess\obj\Debug\ESS.DataAccess.pdb
+D:\ESS_Mark_CDCN_PhucYen\DataAccess\bin\ESS.DataAccess.dll.config
+D:\ESS_Mark_CDCN_PhucYen\DataAccess\bin\ESS.DataAccess.dll
+D:\ESS_Mark_CDCN_PhucYen\DataAccess\bin\ESS.DataAccess.pdb
+D:\ESS_Mark_CDCN_PhucYen\DataAccess\bin\ESS.DataAccess.xml
+D:\ESS_Mark_CDCN_PhucYen\DataAccess\bin\ESS.Objects.dll
+D:\ESS_Mark_CDCN_PhucYen\DataAccess\bin\ESSConnect.dll
+D:\ESS_Mark_CDCN_PhucYen\DataAccess\bin\ESS.Objects.pdb
+D:\ESS_Mark_CDCN_PhucYen\DataAccess\bin\ESS.Objects.xml
+D:\ESS_Mark_CDCN_PhucYen\DataAccess\bin\ESSConnect.pdb
+D:\ESS_Mark_CDCN_PhucYen\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\ESS_Mark_CDCN_PhucYen\DataAccess\obj\Debug\ESS.DataAccess.dll
+D:\ESS_Mark_CDCN_PhucYen\DataAccess\obj\Debug\ESS.DataAccess.xml
+D:\ESS_Mark_CDCN_PhucYen\DataAccess\obj\Debug\ESS.DataAccess.pdb

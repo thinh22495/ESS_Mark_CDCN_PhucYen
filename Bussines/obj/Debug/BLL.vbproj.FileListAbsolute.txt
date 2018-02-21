@@ -1,0 +1,90 @@
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\BLL\bin\ESS.BLL.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\BLL\bin\ESS.BLL.pdb
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\BLL\bin\ESS.xml
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\BLL\bin\ESS.DAL.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\BLL\bin\ESS.Library.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\BLL\bin\Interop.Excel.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\BLL\bin\ESS.Machine.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\BLL\bin\C1.Win.C1FlexGrid.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\BLL\bin\ESS.Library.pdb
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\BLL\bin\ESS.Machine.pdb
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\BLL\bin\ESS.DAL.pdb
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\BLL\obj\Debug\ESS.BLL.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\BLL\obj\Debug\ESS.xml
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\BLL\obj\Debug\ESS.BLL.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\BLL\bin\ESS.BLL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\BLL\bin\ESS.BLL.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\BLL\bin\ESS.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\BLL\bin\ESS.DAL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\BLL\bin\ESS.Library.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\BLL\bin\ESS.Machine.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\BLL\bin\Interop.Excel.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\BLL\bin\C1.Win.C1FlexGrid.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\BLL\bin\ESS.Machine.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\BLL\bin\ESS.Library.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\BLL\bin\ESS.DAL.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\BLL\obj\Debug\ESS.BLL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\BLL\obj\Debug\ESS.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\BLL\obj\Debug\ESS.BLL.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\BLL\bin\ESS.BLL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\BLL\bin\ESS.BLL.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\BLL\bin\ESS.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\BLL\bin\ESS.DAL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\BLL\bin\ESS.Library.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\BLL\bin\ESS.Machine.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\BLL\bin\Interop.Excel.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\BLL\bin\C1.Win.C1FlexGrid.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\BLL\bin\ESS.Machine.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\BLL\bin\ESS.Library.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\BLL\bin\ESS.DAL.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\BLL\obj\Debug\ESS.BLL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\BLL\obj\Debug\ESS.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\BLL\obj\Debug\ESS.BLL.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\BLL\bin\ESS.BLL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\BLL\bin\ESS.BLL.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\BLL\bin\ESS.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\BLL\bin\ESS.DAL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\BLL\bin\ESS.Library.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\BLL\bin\ESS.Machine.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\BLL\bin\Interop.Excel.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\BLL\bin\C1.Win.C1FlexGrid.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\BLL\bin\ESS.Machine.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\BLL\bin\ESS.Library.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\BLL\bin\ESS.DAL.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\BLL\obj\Debug\ESS.BLL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\BLL\obj\Debug\ESS.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\BLL\obj\Debug\ESS.BLL.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\BLL\bin\ESS.BLL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\BLL\bin\ESS.BLL.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\BLL\bin\ESS.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\BLL\bin\ESS.DAL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\BLL\bin\ESS.Library.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\BLL\bin\ESS.Machine.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\BLL\bin\Interop.Excel.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\BLL\bin\C1.Win.C1FlexGrid.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\BLL\bin\ESS.Machine.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\BLL\bin\ESS.Library.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\BLL\bin\ESS.DAL.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\BLL\obj\Debug\ESS.BLL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\BLL\obj\Debug\ESS.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\BLL\obj\Debug\ESS.BLL.pdb
+E:\Project\Company\Working\ESS_TC\BLL\bin\ESS.BLL.dll
+E:\Project\Company\Working\ESS_TC\BLL\bin\ESS.BLL.pdb
+E:\Project\Company\Working\ESS_TC\BLL\bin\ESS.xml
+E:\Project\Company\Working\ESS_TC\BLL\bin\ESS.DAL.dll
+E:\Project\Company\Working\ESS_TC\BLL\bin\ESS.Library.dll
+E:\Project\Company\Working\ESS_TC\BLL\bin\ESS.Machine.dll
+E:\Project\Company\Working\ESS_TC\BLL\bin\Interop.Excel.dll
+E:\Project\Company\Working\ESS_TC\BLL\bin\C1.Win.C1FlexGrid.dll
+E:\Project\Company\Working\ESS_TC\BLL\bin\ESS.Machine.pdb
+E:\Project\Company\Working\ESS_TC\BLL\bin\ESS.Library.pdb
+E:\Project\Company\Working\ESS_TC\BLL\bin\ESS.DAL.pdb
+E:\Project\Company\Working\ESS_TC\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\ESS_TC\BLL\obj\Debug\ESS.BLL.dll
+E:\Project\Company\Working\ESS_TC\BLL\obj\Debug\ESS.xml
+E:\Project\Company\Working\ESS_TC\BLL\obj\Debug\ESS.BLL.pdb

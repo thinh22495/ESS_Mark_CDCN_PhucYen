@@ -1,0 +1,203 @@
+E:\Project\Company\Working\EDU\ESS_TC\ESSDatabase\Bin\ESSConnect.dll
+E:\Project\Company\Working\EDU\ESS_TC\ESSDatabase\Bin\ESSConnect.pdb
+E:\Project\Company\Working\EDU\ESS_TC\ESSDatabase\Bin\Union.Machine.xml
+E:\Project\Company\Working\EDU\ESS_TC\ESSDatabase\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\EDU\ESS_TC\ESSDatabase\obj\Debug\ESSConnect.dll
+E:\Project\Company\Working\EDU\ESS_TC\ESSDatabase\obj\Debug\Union.Machine.xml
+E:\Project\Company\Working\EDU\ESS_TC\ESSDatabase\obj\Debug\ESSConnect.pdb
+E:\Project\Company\Working\EDU\ESS_TC\ESSConnect\Bin\ESSConnect.dll
+E:\Project\Company\Working\EDU\ESS_TC\ESSConnect\Bin\ESSConnect.pdb
+E:\Project\Company\Working\EDU\ESS_TC\ESSConnect\Bin\Union.Machine.xml
+E:\Project\Company\Working\EDU\ESS_TC\ESSConnect\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\EDU\ESS_TC\ESSConnect\obj\Debug\ESSConnect.dll
+E:\Project\Company\Working\EDU\ESS_TC\ESSConnect\obj\Debug\Union.Machine.xml
+E:\Project\Company\Working\EDU\ESS_TC\ESSConnect\obj\Debug\ESSConnect.pdb
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSConnect\Bin\ESSConnect.dll
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSConnect\Bin\ESSConnect.pdb
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSConnect\Bin\Union.Machine.xml
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSConnect\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSConnect\obj\Debug\ESSConnect.dll
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSConnect\obj\Debug\Union.Machine.xml
+E:\Project\Company\Working\EDU\ESS_TC_HVCS\ESSConnect\obj\Debug\ESSConnect.pdb
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSConnect\Bin\ESSConnect.dll
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSConnect\Bin\ESSConnect.pdb
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSConnect\Bin\Union.Machine.xml
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSConnect\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSConnect\obj\Debug\ESSConnect.dll
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSConnect\obj\Debug\Union.Machine.xml
+E:\Project\Company\Working\EDU\New\ESS_TC_HVCS\ESSConnect\obj\Debug\ESSConnect.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSConnect\Bin\ESSConnect.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSConnect\Bin\ESSConnect.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSConnect\Bin\Union.Machine.xml
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSConnect\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSConnect\obj\Debug\ESSConnect.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSConnect\obj\Debug\Union.Machine.xml
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_DHHH\ESSConnect\obj\Debug\ESSConnect.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSConnect\Bin\ESSConnect.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSConnect\Bin\ESSConnect.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSConnect\Bin\Union.Machine.xml
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSConnect\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSConnect\obj\Debug\ESSConnect.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSConnect\obj\Debug\Union.Machine.xml
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_CDSPTW\ESSConnect\obj\Debug\ESSConnect.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSConnect\Bin\ESSConnect.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSConnect\Bin\ESSConnect.pdb
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSConnect\Bin\Union.Machine.xml
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSConnect\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSConnect\obj\Debug\ESSConnect.dll
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSConnect\obj\Debug\Union.Machine.xml
+E:\Project\Company\Working\EDU\ESS_TINCHI\ESS_TC_VHDLTH\ESSConnect\obj\Debug\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSConnect\Bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSConnect\Bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSConnect\Bin\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSConnect\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSConnect\obj\Debug\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSConnect\obj\Debug\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen\ESSConnect\obj\Debug\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSConnect\Bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSConnect\Bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSConnect\Bin\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSConnect\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSConnect\obj\Debug\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSConnect\obj\Debug\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen\ESSConnect\obj\Debug\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen1\ESSConnect\Bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen1\ESSConnect\Bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen1\ESSConnect\Bin\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen1\ESSConnect\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen1\ESSConnect\obj\Debug\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen1\ESSConnect\obj\Debug\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen1\ESSConnect\obj\Debug\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen11\ESSConnect\Bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen11\ESSConnect\Bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen11\ESSConnect\Bin\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen11\ESSConnect\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen11\ESSConnect\obj\Debug\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen11\ESSConnect\obj\Debug\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\Vinh_Sip\ESS_TC_CDCN_PhucYen11\ESSConnect\obj\Debug\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main\ESSConnect\Bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main\ESSConnect\Bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main\ESSConnect\Bin\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main\ESSConnect\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main\ESSConnect\obj\Debug\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main\ESSConnect\obj\Debug\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main\ESSConnect\obj\Debug\ESSConnect.pdb
+D:\My Work\ThienAn\CaoDangCNPhucYen\ESS_TC_CDCN_PhucYen_Main\ESSConnect\Bin\ESSConnect.dll
+D:\My Work\ThienAn\CaoDangCNPhucYen\ESS_TC_CDCN_PhucYen_Main\ESSConnect\Bin\ESSConnect.pdb
+D:\My Work\ThienAn\CaoDangCNPhucYen\ESS_TC_CDCN_PhucYen_Main\ESSConnect\Bin\Union.Machine.xml
+D:\My Work\ThienAn\CaoDangCNPhucYen\ESS_TC_CDCN_PhucYen_Main\ESSConnect\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\CaoDangCNPhucYen\ESS_TC_CDCN_PhucYen_Main\ESSConnect\obj\Debug\ESSConnect.dll
+D:\My Work\ThienAn\CaoDangCNPhucYen\ESS_TC_CDCN_PhucYen_Main\ESSConnect\obj\Debug\Union.Machine.xml
+D:\My Work\ThienAn\CaoDangCNPhucYen\ESS_TC_CDCN_PhucYen_Main\ESSConnect\obj\Debug\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26072012\ESS_TC_CDCN_PhucYen_Main\ESSConnect\Bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26072012\ESS_TC_CDCN_PhucYen_Main\ESSConnect\Bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26072012\ESS_TC_CDCN_PhucYen_Main\ESSConnect\Bin\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26072012\ESS_TC_CDCN_PhucYen_Main\ESSConnect\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26072012\ESS_TC_CDCN_PhucYen_Main\ESSConnect\obj\Debug\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26072012\ESS_TC_CDCN_PhucYen_Main\ESSConnect\obj\Debug\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26072012\ESS_TC_CDCN_PhucYen_Main\ESSConnect\obj\Debug\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_05082012\ESSConnect\Bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_05082012\ESSConnect\Bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_05082012\ESSConnect\Bin\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_05082012\ESSConnect\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_05082012\ESSConnect\obj\Debug\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_05082012\ESSConnect\obj\Debug\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_05082012\ESSConnect\obj\Debug\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\Cao Dang Nghe\ESS_TC_CDCN_PhucYen_Main_05082012\ESSConnect\Bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\Cao Dang Nghe\ESS_TC_CDCN_PhucYen_Main_05082012\ESSConnect\Bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\Cao Dang Nghe\ESS_TC_CDCN_PhucYen_Main_05082012\ESSConnect\Bin\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\Cao Dang Nghe\ESS_TC_CDCN_PhucYen_Main_05082012\ESSConnect\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\Cao Dang Nghe\ESS_TC_CDCN_PhucYen_Main_05082012\ESSConnect\obj\Debug\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\Cao Dang Nghe\ESS_TC_CDCN_PhucYen_Main_05082012\ESSConnect\obj\Debug\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\Cao Dang Nghe\ESS_TC_CDCN_PhucYen_Main_05082012\ESSConnect\obj\Debug\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_CDCN_PhucYen_Main_23102012\ESSConnect\Bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_CDCN_PhucYen_Main_23102012\ESSConnect\Bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_CDCN_PhucYen_Main_23102012\ESSConnect\Bin\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_CDCN_PhucYen_Main_23102012\ESSConnect\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_CDCN_PhucYen_Main_23102012\ESSConnect\obj\Debug\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_CDCN_PhucYen_Main_23102012\ESSConnect\obj\Debug\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_CDCN_PhucYen_Main_23102012\ESSConnect\obj\Debug\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_Mark_PhucYen_Main_06032013\ESS_TC_CDCN_PhucYen_Main_23102012\ESSConnect\Bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_Mark_PhucYen_Main_06032013\ESS_TC_CDCN_PhucYen_Main_23102012\ESSConnect\Bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_Mark_PhucYen_Main_06032013\ESS_TC_CDCN_PhucYen_Main_23102012\ESSConnect\Bin\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_Mark_PhucYen_Main_06032013\ESS_TC_CDCN_PhucYen_Main_23102012\ESSConnect\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_Mark_PhucYen_Main_06032013\ESS_TC_CDCN_PhucYen_Main_23102012\ESSConnect\obj\Debug\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_Mark_PhucYen_Main_06032013\ESS_TC_CDCN_PhucYen_Main_23102012\ESSConnect\obj\Debug\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TaiChinh_SuaBienLai_HocPhi\ESS_TC_Mark_PhucYen_Main_06032013\ESS_TC_CDCN_PhucYen_Main_23102012\ESSConnect\obj\Debug\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_07042013\ESSConnect\Bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_07042013\ESSConnect\Bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_07042013\ESSConnect\Bin\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_07042013\ESSConnect\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_07042013\ESSConnect\obj\Debug\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_07042013\ESSConnect\obj\Debug\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_07042013\ESSConnect\obj\Debug\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_10052013\ESSConnect\Bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_10052013\ESSConnect\Bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_10052013\ESSConnect\Bin\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_10052013\ESSConnect\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_10052013\ESSConnect\obj\Debug\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_10052013\ESSConnect\obj\Debug\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_10052013\ESSConnect\obj\Debug\ESSConnect.pdb
+D:\Working\NamVietJSC\CD CN Phuc Yen\ESS_TC_CDCN_PhucYen_Main_03062013\ESSConnect\Bin\ESSConnect.dll
+D:\Working\NamVietJSC\CD CN Phuc Yen\ESS_TC_CDCN_PhucYen_Main_03062013\ESSConnect\Bin\ESSConnect.pdb
+D:\Working\NamVietJSC\CD CN Phuc Yen\ESS_TC_CDCN_PhucYen_Main_03062013\ESSConnect\Bin\Union.Machine.xml
+D:\Working\NamVietJSC\CD CN Phuc Yen\ESS_TC_CDCN_PhucYen_Main_03062013\ESSConnect\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\CD CN Phuc Yen\ESS_TC_CDCN_PhucYen_Main_03062013\ESSConnect\obj\Debug\ESSConnect.dll
+D:\Working\NamVietJSC\CD CN Phuc Yen\ESS_TC_CDCN_PhucYen_Main_03062013\ESSConnect\obj\Debug\Union.Machine.xml
+D:\Working\NamVietJSC\CD CN Phuc Yen\ESS_TC_CDCN_PhucYen_Main_03062013\ESSConnect\obj\Debug\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_12062013\ESSConnect\Bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_12062013\ESSConnect\Bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_12062013\ESSConnect\Bin\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_12062013\ESSConnect\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_12062013\ESSConnect\obj\Debug\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_12062013\ESSConnect\obj\Debug\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_CDCNPY_26112012\ESS_TC_CDCN_PhucYen_Main_12062013\ESSConnect\obj\Debug\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_12062013\ESSConnect\Bin\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_12062013\ESSConnect\Bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_12062013\ESSConnect\Bin\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_12062013\ESSConnect\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_12062013\ESSConnect\obj\Debug\ESSConnect.dll
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_12062013\ESSConnect\obj\Debug\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_12062013\ESSConnect\obj\Debug\ESSConnect.pdb
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_01102013\ESSConnect\Bin\ESSConnect.dll
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_01102013\ESSConnect\Bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_01102013\ESSConnect\Bin\Union.Machine.xml
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_01102013\ESSConnect\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_01102013\ESSConnect\obj\Debug\ESSConnect.dll
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_01102013\ESSConnect\obj\Debug\Union.Machine.xml
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_01102013\ESSConnect\obj\Debug\ESSConnect.pdb
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_28022014\ESSConnect\Bin\ESSConnect.dll
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_28022014\ESSConnect\Bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_28022014\ESSConnect\Bin\Union.Machine.xml
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_28022014\ESSConnect\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_28022014\ESSConnect\obj\Debug\ESSConnect.dll
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_28022014\ESSConnect\obj\Debug\Union.Machine.xml
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main_28022014\ESSConnect\obj\Debug\ESSConnect.pdb
+D:\Working\NamVietJSC\CD CN Phuc Yen\Diem tin chi 2014\CDCN_PY\ESS_TC_CDCN_PhucYen_Main_28022014\ESSConnect\Bin\ESSConnect.dll
+D:\Working\NamVietJSC\CD CN Phuc Yen\Diem tin chi 2014\CDCN_PY\ESS_TC_CDCN_PhucYen_Main_28022014\ESSConnect\Bin\ESSConnect.pdb
+D:\Working\NamVietJSC\CD CN Phuc Yen\Diem tin chi 2014\CDCN_PY\ESS_TC_CDCN_PhucYen_Main_28022014\ESSConnect\Bin\Union.Machine.xml
+D:\Working\NamVietJSC\CD CN Phuc Yen\Diem tin chi 2014\CDCN_PY\ESS_TC_CDCN_PhucYen_Main_28022014\ESSConnect\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\CD CN Phuc Yen\Diem tin chi 2014\CDCN_PY\ESS_TC_CDCN_PhucYen_Main_28022014\ESSConnect\obj\Debug\ESSConnect.dll
+D:\Working\NamVietJSC\CD CN Phuc Yen\Diem tin chi 2014\CDCN_PY\ESS_TC_CDCN_PhucYen_Main_28022014\ESSConnect\obj\Debug\Union.Machine.xml
+D:\Working\NamVietJSC\CD CN Phuc Yen\Diem tin chi 2014\CDCN_PY\ESS_TC_CDCN_PhucYen_Main_28022014\ESSConnect\obj\Debug\ESSConnect.pdb
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\ESSConnect\Bin\ESSConnect.dll
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\ESSConnect\Bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\ESSConnect\Bin\Union.Machine.xml
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\ESSConnect\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\ESSConnect\obj\Debug\ESSConnect.dll
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\ESSConnect\obj\Debug\Union.Machine.xml
+D:\My_CongTy\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\ESSConnect\obj\Debug\ESSConnect.pdb
+D:\My_CongTy\DuAn_NamViet_HCM\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\ESSConnect\Bin\ESSConnect.dll
+D:\My_CongTy\DuAn_NamViet_HCM\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\ESSConnect\Bin\ESSConnect.pdb
+D:\My_CongTy\DuAn_NamViet_HCM\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\ESSConnect\Bin\Union.Machine.xml
+D:\My_CongTy\DuAn_NamViet_HCM\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\ESSConnect\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_NamViet_HCM\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\ESSConnect\obj\Debug\ESSConnect.dll
+D:\My_CongTy\DuAn_NamViet_HCM\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\ESSConnect\obj\Debug\Union.Machine.xml
+D:\My_CongTy\DuAn_NamViet_HCM\DuAn_NamViet\CaoDang CongNghiep PhucYen\ESS_TC_CDCN_PhucYen_Main-markMan_29052015\ESS_TC_CDCN_PhucYen_Main_28022014\ESSConnect\obj\Debug\ESSConnect.pdb
+D:\ESS_Mark_CDCN_PhucYen\ESSConnect\Bin\ESSConnect.dll
+D:\ESS_Mark_CDCN_PhucYen\ESSConnect\Bin\ESSConnect.pdb
+D:\ESS_Mark_CDCN_PhucYen\ESSConnect\Bin\Union.Machine.xml
+D:\ESS_Mark_CDCN_PhucYen\ESSConnect\obj\Debug\ResolveAssemblyReference.cache
+D:\ESS_Mark_CDCN_PhucYen\ESSConnect\obj\Debug\ESSConnect.dll
+D:\ESS_Mark_CDCN_PhucYen\ESSConnect\obj\Debug\Union.Machine.xml
+D:\ESS_Mark_CDCN_PhucYen\ESSConnect\obj\Debug\ESSConnect.pdb

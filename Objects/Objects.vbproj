@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{79402105-DDB3-4937-92EE-8570D77747D5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>ESS</RootNamespace>
+    <AssemblyName>ESS.Objects</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ESS.Objects.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ESS.Objects.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaoCaoTieuDe_En.vb" />
+    <Compile Include="BienLaiThuChiTietMon.vb" />
+    <Compile Include="BoMon.vb" />
+    <Compile Include="BoMonGiangVien.vb" />
+    <Compile Include="CanBoLop.vb" />
+    <Compile Include="ChucDanhCanBo.vb" />
+    <Compile Include="ChucVu.vb" />
+    <Compile Include="ChuongTrinhDaoTao.vb" />
+    <Compile Include="ChuongTrinhDaoTaoChiTiet.vb" />
+    <Compile Include="ChuongTrinhDaoTaoLop.vb" />
+    <Compile Include="ChuongTrinhDaoTaoMonHocRangBuoc.vb" />
+    <Compile Include="ChuongTrinhDaoTaoNhomTuChon.vb" />
+    <Compile Include="ChuyenDuLieu.vb" />
+    <Compile Include="ChuyenNganh.vb" />
+    <Compile Include="CoSoDaoTao.vb" />
+    <Compile Include="CoVanHocTap.vb" />
+    <Compile Include="DanhHieu.vb" />
+    <Compile Include="DanhHieuCaNhan.vb" />
+    <Compile Include="DanhHieuThiDuaTapThe.vb" />
+    <Compile Include="DanhSach.vb" />
+    <Compile Include="DanhSachHocBong.vb" />
+    <Compile Include="DanhSachKhongThi.vb" />
+    <Compile Include="DanhSachLopTinChi.vb" />
+    <Compile Include="DanhSachMienGiamHocPhi.vb" />
+    <Compile Include="DanhSachNganh2.vb" />
+    <Compile Include="DanhSachSinhVien.vb" />
+    <Compile Include="DanhSachThuctap.vb" />
+    <Compile Include="DanhSachTotNghiep.vb" />
+    <Compile Include="DanhSachTroCap.vb" />
+    <Compile Include="DanhSachXetLenLop.vb" />
+    <Compile Include="DanhSachXetLuanVanThiNoTotNghiep.vb" />
+    <Compile Include="Diem.vb" />
+    <Compile Include="DiemDanh.vb" />
+    <Compile Include="DiemKhongDuDieuKienThi.vb" />
+    <Compile Include="DiemQuyDoi.vb" />
+    <Compile Include="DiemRenLuyen.vb" />
+    <Compile Include="DiemRenLuyenTinChi.vb" />
+    <Compile Include="DiemThanhPhan.vb" />
+    <Compile Include="DiemThi.vb" />
+    <Compile Include="DoiTuongChinhSach.vb" />
+    <Compile Include="DoiTuongTroCap.vb" />
+    <Compile Include="DuyetDangKySinhVien.vb" />
+    <Compile Include="EnumNConst.vb" />
+    <Compile Include="ESSBaoCaoTieuDe.vb" />
+    <Compile Include="ESSBienLaiThu.vb" />
+    <Compile Include="ESSGiangVien.vb" />
+    <Compile Include="ESSGiangVienMonDay.vb" />
+    <Compile Include="ESSGiaoVien.vb" />
+    <Compile Include="ESSGiaoVienMonDay.vb" />
+    <Compile Include="ESSGioiTinh.vb" />
+    <Compile Include="ESSGoiNhapHoc.vb" />
+    <Compile Include="ESSHe.vb" />
+    <Compile Include="ESSHoatDongXaHoi.vb" />
+    <Compile Include="ESSHocHam.vb" />
+    <Compile Include="ESSHocKyDangKy.vb" />
+    <Compile Include="ESSHocVi.vb" />
+    <Compile Include="ESSHoSo.vb" />
+    <Compile Include="ESSHoSoNop.vb" />
+    <Compile Include="ESSKeHoachKhac.vb" />
+    <Compile Include="ESSKhenThuong.vb" />
+    <Compile Include="ESSKhoa.vb" />
+    <Compile Include="ESSKyLuat.vb" />
+    <Compile Include="ESSLoaiChungChiDanhSachMon.vb" />
+    <Compile Include="ESSLoaiGiayTo.vb" />
+    <Compile Include="ESSLoaiHocBong.vb" />
+    <Compile Include="ESSLoaiPhong.vb" />
+    <Compile Include="ESSLoaiQuy.vb" />
+    <Compile Include="ESSLoaiThuChi.vb" />
+    <Compile Include="ESSLop.vb" />
+    <Compile Include="ESSLopTinChi.vb" />
+    <Compile Include="ESSMonDangKy.vb" />
+    <Compile Include="ESSMonHoc.vb" />
+    <Compile Include="ESSMonTinChi.vb" />
+    <Compile Include="ESSMucHocPhiTinChi.vb" />
+    <Compile Include="ESSMucThuKhacSinhVien.vb" />
+    <Compile Include="ESSNganh.vb" />
+    <Compile Include="ESSNhomDoiTuong.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="NoiNgoaiTru.vb" />
+    <Compile Include="NoKhacKhiXetTotNghiep.vb" />
+    <Compile Include="PhamViDangKy.vb" />
+    <Compile Include="PhongHoc.vb" />
+    <Compile Include="PhongKyTucXa.vb" />
+    <Compile Include="QuyDinhSoTinChi.vb" />
+    <Compile Include="QuyDinhSoTinChiSom.vb" />
+    <Compile Include="Quyen.vb" />
+    <Compile Include="QuyHocBong.vb" />
+    <Compile Include="QuyHocBongPhanBo.vb" />
+    <Compile Include="SuKien.vb" />
+    <Compile Include="SuKienKhac.vb" />
+    <Compile Include="SuKienNguoiDung.vb" />
+    <Compile Include="Tang.vb" />
+    <Compile Include="ThamSoHeThong.vb" />
+    <Compile Include="ThanhPhanDiem.vb" />
+    <Compile Include="ThanhPhanXuatThan.vb" />
+    <Compile Include="ThongTinSinhVien.vb" />
+    <Compile Include="TimKiemNangCaoTruongHienThi.vb" />
+    <Compile Include="TimKiemNangCaoTruongTimKiem.vb" />
+    <Compile Include="TKB.vb" />
+    <Compile Include="ToaNha.vb" />
+    <Compile Include="ToChucThi.vb" />
+    <Compile Include="ToChucThiChiTiet.vb" />
+    <Compile Include="ToChucThiDangKyCaiThienDiem.vb" />
+    <Compile Include="ToChucThiDongTui.vb" />
+    <Compile Include="ToChucThiPhong.vb" />
+    <Compile Include="ToChucThiPhucKhao.vb" />
+    <Compile Include="Users.vb" />
+    <Compile Include="UsersHeAcess.vb" />
+    <Compile Include="UsersLopAccess.vb" />
+    <Compile Include="UsersLopAcess.vb" />
+    <Compile Include="UsersQuyen.vb" />
+    <Compile Include="VaiTro.vb" />
+    <Compile Include="VaiTroQuyen.vb" />
+    <Compile Include="VayVonNganHang.vb" />
+    <Compile Include="XepHangHocLuc.vb" />
+    <Compile Include="XepHangNamDaoTao.vb" />
+    <Compile Include="XepHangTotNghiep.vb" />
+    <Compile Include="XepLoaiChungChi.vb" />
+    <Compile Include="XepLoaiHocTap.vb" />
+    <Compile Include="Xeploaihoctap_thangdiem10.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

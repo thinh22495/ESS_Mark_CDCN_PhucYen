@@ -1,0 +1,60 @@
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\DAL\bin\ESS.DAL.dll.config
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\DAL\bin\ESS.DAL.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\DAL\bin\ESS.DAL.pdb
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\DAL\bin\ESS.xml
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\DAL\bin\ESS.Machine.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\DAL\bin\ESS.Machine.pdb
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\DAL\obj\Debug\ESS.DAL.dll
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\DAL\obj\Debug\ESS.xml
+E:\Project\Company\UNISOFT\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\DAL\obj\Debug\ESS.DAL.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\DAL\bin\ESS.DAL.dll.config
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\DAL\bin\ESS.DAL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\DAL\bin\ESS.DAL.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\DAL\bin\ESS.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\DAL\bin\ESS.Machine.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\DAL\bin\ESS.Machine.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\DAL\obj\Debug\ESS.DAL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\DAL\obj\Debug\ESS.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS - 2011\DAL\obj\Debug\ESS.DAL.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\DAL\bin\ESS.DAL.dll.config
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\DAL\bin\ESS.DAL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\DAL\bin\ESS.DAL.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\DAL\bin\ESS.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\DAL\bin\ESS.Machine.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\DAL\bin\ESS.Machine.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\DAL\obj\Debug\ESS.DAL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\DAL\obj\Debug\ESS.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NEW\DAL\obj\Debug\ESS.DAL.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\DAL\bin\ESS.DAL.dll.config
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\DAL\bin\ESS.DAL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\DAL\bin\ESS.DAL.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\DAL\bin\ESS.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\DAL\bin\ESS.Machine.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\DAL\bin\ESS.Machine.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\DAL\obj\Debug\ESS.DAL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\DAL\obj\Debug\ESS.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_Chuan\DAL\obj\Debug\ESS.DAL.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\DAL\bin\ESS.DAL.dll.config
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\DAL\bin\ESS.DAL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\DAL\bin\ESS.DAL.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\DAL\bin\ESS.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\DAL\bin\ESS.Machine.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\DAL\bin\ESS.Machine.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\DAL\obj\Debug\ESS.DAL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\DAL\obj\Debug\ESS.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_TC\DAL\obj\Debug\ESS.DAL.pdb
+E:\Project\Company\Working\ESS_TC\DAL\bin\ESS.DAL.dll.config
+E:\Project\Company\Working\ESS_TC\DAL\bin\ESS.DAL.dll
+E:\Project\Company\Working\ESS_TC\DAL\bin\ESS.DAL.pdb
+E:\Project\Company\Working\ESS_TC\DAL\bin\ESS.xml
+E:\Project\Company\Working\ESS_TC\DAL\bin\ESS.Machine.dll
+E:\Project\Company\Working\ESS_TC\DAL\bin\ESS.Machine.pdb
+E:\Project\Company\Working\ESS_TC\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\ESS_TC\DAL\obj\Debug\ESS.DAL.dll
+E:\Project\Company\Working\ESS_TC\DAL\obj\Debug\ESS.xml
+E:\Project\Company\Working\ESS_TC\DAL\obj\Debug\ESS.DAL.pdb

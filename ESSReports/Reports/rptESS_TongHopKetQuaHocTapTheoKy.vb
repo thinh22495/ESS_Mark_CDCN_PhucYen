@@ -1,0 +1,3 @@
+Public Class rptESS_TongHopKetQuaHocTapTheoKy
+
+End Class
